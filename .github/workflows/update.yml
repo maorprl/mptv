@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - "scripts/update.py"
+      - "scripts/extra.py"
       - ".github/workflows/update.yml"
 
 permissions:
@@ -22,12 +23,14 @@ jobs:
         with:
           python-version: "3.12"
       - name: Refresh and validate
-        run: python scripts/update.py
+        run: |
+          python scripts/update.py
+          python scripts/extra.py
       - name: Commit only validated changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u epg.xml
+          git add playlist.m3u epg.xml israel-experimental.m3u
           if ! git diff --cached --quiet; then
             git commit -m "Update playlist and EPG"
             git push
