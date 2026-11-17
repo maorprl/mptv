@@ -3,6 +3,8 @@
 from __future__ import annotations
 import datetime as dt
 import re
+import time
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -16,6 +18,77 @@ STREAM_OVERRIDES = {
     "Keshet12.il": "https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8",
     "Channel13.il": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
 }
+# Candidate URLs are not trusted until a playlist AND a video segment respond.
+# The first Channel 13 URL is user-confirmed and remains the safe fallback.
+STREAM_CANDIDATES = {
+    "Keshet12.il": [
+        "https://mako-streaming.akamaized.net/direct/hls/live/20000821/k12ni-bu/index.m3u8?b-in-range=0-800",
+        "https://mako-streaming.akamaized.net/stream/hls/live/20000821/k12n12wad/index.m3u8?b-in-range=0-800",
+        STREAM_OVERRIDES["Keshet12.il"],
+    ],
+    "Channel13.il": [
+        STREAM_OVERRIDES["Channel13.il"],
+        "https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8",
+        "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8",
+    ],
+}
+
+def probe_hls(url: str) -> float | None:
+    """Return startup fetch time, or None. Cannot prove playback in Israel."""
+    started = time.monotonic()
+    headers = {"User-Agent": "Mozilla/5.0", "Referer": "https://www.n12.co.il/"}
+    try:
+        for _ in range(4):
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=7) as response:
+                manifest = response.read(180_000).decode("utf-8-sig", errors="replace")
+                url = response.url
+            if not manifest.lstrip().startswith("#EXTM3U"):
+                return None
+            lines = [line.strip() for line in manifest.splitlines() if line.strip() and not line.startswith("#")]
+            if not lines:
+                return None
+            relative = lines[0]
+            next_url = urllib.parse.urljoin(url, relative)
+            if not next_url.startswith(("http://", "https://")):
+                return None
+            if "#EXT-X-STREAM-INF:" in manifest:
+                url = next_url
+                continue
+            # Media playlist: require at least one accessible video segment.
+            if "#EXTINF:" not in manifest:
+                return None
+            req = urllib.request.Request(next_url, headers=headers)
+            with urllib.request.urlopen(req, timeout=7) as response:
+                if response.status != 200 or not response.read(1024):
+                    return None
+            return round(time.monotonic() - started, 2)
+    except Exception as exc:
+        print(f"Probe failed: {urllib.parse.urlsplit(url).netloc}: {type(exc).__name__}")
+    return None
+
+def choose_stream(channel_id: str) -> str:
+    candidates = STREAM_CANDIDATES.get(channel_id)
+    if not candidates:
+        return STREAM_OVERRIDES[channel_id]
+    passing = []
+    for url in candidates:
+        seconds = probe_hls(url)
+        print(f"{channel_id}: {urllib.parse.urlsplit(url).netloc}: {seconds if seconds is not None else 'unavailable'}")
+        if seconds is not None:
+            passing.append((seconds, url))
+    if not passing:
+        # Never switch to an unverified, possibly dead new URL.
+        return STREAM_OVERRIDES[channel_id]
+    passing.sort()
+    chosen_seconds, chosen_url = passing[0]
+    if channel_id == "Channel13.il" and chosen_url != STREAM_OVERRIDES[channel_id]:
+        current_time = next((t for t, u in passing if u == STREAM_OVERRIDES[channel_id]), None)
+        # Do not replace the user-confirmed stream for marginal gains.
+        if current_time is not None and chosen_seconds > current_time * 0.7:
+            return STREAM_OVERRIDES[channel_id]
+    return chosen_url
+
 CHANNELS = {
     "Kan11.il": ("Kan 11", "Kan11.il"),
     "Keshet12.il": ("Keshet 12", "Keshet12.il"),
@@ -67,7 +140,7 @@ def playlist() -> None:
             if key in STREAM_OVERRIDES:
                 # Remove old stream and user-agent options; use the replacement only.
                 metadata = re.sub(r' http-user-agent="[^"]*"', "", metadata)
-                blocks[key] = [metadata, STREAM_OVERRIDES[key]]
+                blocks[key] = [metadata, choose_stream(key)]
             else:
                 blocks[key] = [metadata, *block[1:]]
     # Kan Educational uses the supplied direct Kan HLS URL.
