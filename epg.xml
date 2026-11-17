@@ -12,6 +12,10 @@
     <display-name>IL - רשת</display-name>
     <icon src="https://iptv-epg.org/images/f8P5Wtt6gzIuvCjl-mmANHd8ha5IN1GuO6GhC1YQxhqHX0tnG2R2FIQe9n2eVUo1acYTAbV766DZazugcQF25DvIcxmPaNYqwm2E2HafX-uqJPtpF2WVbiPUpQ" />
   </channel>
+  <channel id="KanEducational.il">
+    <display-name>IL - ערוץ 23 חינוכית</display-name>
+    <icon src="https://iptv-epg.org/images/IxUvFJu9ny6kb5n_2nPdTSFLzXyTop67je98b1O78qesvxpaV6qrZDg7qOOeZVIGFvRmukJrEgD_E-jwV9T4pyvEe3OFHDAJ1bIDZ06acBrrYaOvCZv1FBr2nLmhAopJH0BXo2JNebVPOidtJjvjjIE2kXgWvVZAHYmjDP1l4apkVOsLv88QOlwyF2_v" />
+  </channel>
   <programme start="20261116100000 +0000" stop="20261116100500 +0000" channel="Kan11.il">
     <desc lang="he">מבזק חדשות. כ' סמ'. שידור חי.</desc>
     <icon src="https://iptv-epg.org/images/wEvOzf8oGVWgwkWoaOjYPz7yHdvdG32YIC-6dAok_jhM8YUBokOdoo_HBiFbmkebFOUxID4vPHl_cK8cEcrRO43Co-uooVNqd4vuUUk" />
@@ -2567,249 +2571,6 @@
     <icon src="https://iptv-epg.org/images/QvW55BeCgWkAhBS2sEXjk1GiNIfdGxKnyTKIKLWDUa0KnWds__zsM6xZAAEoE62YfHwDWtJaAcOvGixyxoJk5zy_pvk4m9jHJl0PULM" />
     <title lang="he">סטטוסקופ - פרק 355</title>
   </programme>
-  <channel id="KanEducational.il">
-    <display-name>IL - כאן חינוכית</display-name>
-  </channel>
-  <programme start="20261115160600 +0000" stop="20261115163000 +0000" channel="KanEducational.il">
-    <desc lang="he">מיכאל מנסה לשכנע את אמו שתיתן לו לחזור לקבוצה אך היא נחושה בדעתה, ציקי מתנדב ביום הקשיש ומגלה בעצמו יכולות שלא היה מודע לקיומן, ושלי נאלצת לקחת החלטה קשה שתשנה הכל. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/NAwV02tNuUXwb8RNrmurXnb24t4cWMhbAvMHpI2UA14oaUT5kf2sHx2CHQiI0zCvM4LVfnyKHSl0B485oF4BgsEC9cLNuMnINmTP4XE" />
-    <title lang="he">שלי הכובשת - 11. כמו לאפות שלג</title>
-  </programme>
-  <programme start="20261115163000 +0000" stop="20261115165700 +0000" channel="KanEducational.il">
-    <desc lang="he">השכנים מזמינים את סמירה ותאמר להיות אושפיזין בסוכה, אבל בעקבות ריב של חזי ותולי על איך לבנות את הסוכה צצות בשכונה יותר מדי סוכות. נור דורכת על חשופיות ואדם חושב שמשהו נורא קרה להורים שלה.כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/s63dUc3bw0gchhUhMv6-2YaedfvtR4giKzldKpUc4YtJq2DAmedmrvUeXIUWIHRlRA2k2bOYj2OjxNm9Os5y4ja_51hd-6ufDZjOmX8" />
-    <title lang="he">שכונת חיים 2 - ככה זה אצלם</title>
-  </programme>
-  <programme start="20261115165700 +0000" stop="20261115172000 +0000" channel="KanEducational.il">
-    <desc lang="he">גולדפיש מזהירה שלחבורה יש 48 שעות בלבד לפני שהעיר תתפרק לחלוטין. רון שוקע בדיכאון עמוק בגלל עזיבתה של סתיו, חן מתעמתת איתו בקפיטריה ומאיימת לאמלל את חייו. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/uO-TpKuMQuNkyIE5UpZN3t3kSEs-zFk8xxrizNV3xfMXSpK5km4qbA6bmXLhgOBcR4-32KTenY9tXoDyoBTRlFBcdMZ4GQr7Rkp2wYc" />
-    <title lang="he">הסדרתיים 2 - 17. כל דבר מזכיר לי אותה</title>
-  </programme>
-  <programme start="20261115172000 +0000" stop="20261115174000 +0000" channel="KanEducational.il">
-    <desc lang="he">בדיוק כשנר נכנס לתפקיד של הבלש האגדי הרקול פוארו, רוח התעלומות והמסתורין משתלטת על אמציה כשהשחקן המפורסם עדן דניאל גבאי מגיע לסטודיו וחושף שהוא מעריץ של אלכס?! כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/WQnlp-0ADI-rMd3LAifHk2cpyZCk692wveQyN_z5JKjDl6VmwDYZ2-LA4nQFSLh9KYc-GYOqEpfU25FJwstvNwqJ31xh78UIY7skftk" />
-    <title lang="he">סטודיו אמציה - רק אנימציה 2 - 7. איזה מת</title>
-  </programme>
-  <programme start="20261115174000 +0000" stop="20261115180700 +0000" channel="KanEducational.il">
-    <desc lang="he">המארב נכשל ואוריה חווה כשלון בחזית נוספת. נגה ואוריה עובדים על החזרת הגור למתחם, מה שעלול להיגמר באסון. יוני מבין שנגה מסתירה ממנו משהו גדול ומחליט לעקוב אחריה, ושמר רוצה להרחיק את אוריה מנעמי. כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/6GB-YSfy3rr9UdRtFCy9ejHKC6yaLj4tNqNd7UxTWIAlujuO2sbdf5bzwjDIg6ruw7A6Fv7--_GFvX_uygrPyd1JXdxzySikoABlyZU" />
-    <title lang="he">המתחם ה-25 - 11. שון פול חוזר לסיה</title>
-  </programme>
-  <programme start="20261115180700 +0000" stop="20261115183500 +0000" channel="KanEducational.il">
-    <desc lang="he">חבורה של ילדי שמנת ונוער בסיכון מוצאים את עצמם יחד באותה סירה. 1. משפחה לא בוחרים. התאומים בעז ואחיו מתערבים מי יוביל את צוות צופי הים שלו לניצחון. כשבעז רואה מי הנערים בצוות שקיבל חושכות עיניו.כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/51yhODEFulhUJQ089iO6lpo7ZGDxNfqUF_07wJt-fF5k2w1hYe4AnB4JLgkqo9Ig7rCxsJGtwRtUbZbKqLA80Ga8E0kNOTBMe0rVFOg" />
-    <title lang="he">עמוק במים - פרק 1</title>
-  </programme>
-  <programme start="20261115183500 +0000" stop="20261115190700 +0000" channel="KanEducational.il">
-    <desc lang="he">נורי מתחמקת מעומר ומגיא ומחפשת מחדש את הקול שלה דרך אבא של סופי. רפאל מודאג מהפרעות האכילה של זיו ומערב את מנר. פלג מנסה את מזלו עם עדן אחות של שירן, למרות שהיא מבוגרת ממנו בשנתיים. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/je7HBV3DzsugsGuec1VO9NqwLsvvoarSOQqLfQ6zcSYLGX_6EHoTiLO9vu4PuDniIDYRXPJrN38RBETiYBlLPE2O-yMrbveDURCzRVY" />
-    <title lang="he">מקיף מילאנו 2 - 6. שומעת פיקס</title>
-  </programme>
-  <programme start="20261115190700 +0000" stop="20261115193300 +0000" channel="KanEducational.il">
-    <desc lang="he">ירדן נשבע למאיה שאין כלום בינו לבין יולי. שיר חושדת שעילי מתכנן פשע עם דני וזוהר. מאיה רוצה לבטל את הקמפיין. אלונה נלחצת בגלל ויכוח בין ההורים. שגיב חוקר את ירדן. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/j1QsI0cwufz_zR8NC8mvx2jYEwqGSBHBorpzBNAdjzbIaUjAEGcy5fIPewCutwrbv9tC6rVIdwk2JOn2YnLIrIp8glw5Cd_k9XADWhQ" />
-    <title lang="he">מיוחדת - 11. שמונה ציורים</title>
-  </programme>
-  <programme start="20261115193300 +0000" stop="20261115195700 +0000" channel="KanEducational.il">
-    <desc lang="he">גולדפיש מזהירה שלחבורה יש 48 שעות בלבד לפני שהעיר תתפרק לחלוטין. רון שוקע בדיכאון עמוק בגלל עזיבתה של סתיו, חן מתעמתת איתו בקפיטריה ומאיימת לאמלל את חייו. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/uO-TpKuMQuNkyIE5UpZN3t3kSEs-zFk8xxrizNV3xfMXSpK5km4qbA6bmXLhgOBcR4-32KTenY9tXoDyoBTRlFBcdMZ4GQr7Rkp2wYc" />
-    <title lang="he">הסדרתיים 2 - 17. כל דבר מזכיר לי אותה</title>
-  </programme>
-  <programme start="20261115195700 +0000" stop="20261115202000 +0000" channel="KanEducational.il">
-    <desc lang="he">נאיה נותנת צ'אנס לילד ממש חמוד לצאת איתה, אבל צריכה להתאפק לא לפסול אותו על זה שהוא לא מצליח להגיד פטרוזיליה. לכבוד יום ההולדת של סטפן, גורי מביא קריקטוריסט שיצייר אותו, אבל סטפן מזועזע מהתוצאה.כ' עב' ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/KgnRKc0lwQr29ioX4y_eUHXZx8igjFkomFKJdUswa54k67CNGG0QCKeu3eiYxaFEVI3-EwqB6RdBmmvW-jK5GYzjmyah87ETIBTCQOg" />
-    <title lang="he">מלון הוטל 3 - 11. פריטזיליה</title>
-  </programme>
-  <programme start="20261115202000 +0000" stop="20261115204400 +0000" channel="KanEducational.il">
-    <desc lang="he">האחים וזעתר מתכוננים ליום האהבה. מיקה מתאהבת בבנאדם הכי לא צפוי. איה מלמדת את זעתר להשתמש באימוג'ים בהודעות וואטסאפ. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/EmG_EmgB29MRMI8Ko_-H3FMYg-ih_oZ2ZdO_tiqvD1wheJHLHr7SGIwcO0BvjwYe51_U0un-I_NBpjHZ2dWnJHEiFLbsn-R5r3EqzVE" />
-    <title lang="he">לבד בבית 2 - 12. יום האהבה</title>
-  </programme>
-  <programme start="20261115204400 +0000" stop="20261115210000 +0000" channel="KanEducational.il">
-    <desc lang="he">ילדים שנולדו מתרומת זרע עונים על שאלות שלא העזתם לשאול אף פעם כמו: האם הם היו רוצים לפגוש את אבא שלהם, מה הם יודעים עליו והאם יכול להיות שיש להם אחים שהם לא מכירים? כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/UdvvZ_NouVVjQbGOncDWIxgSCoJp9_2rLT9dGgto5qyp0-UiMLX1rPiHgAjH0-NnTbBxva2g_sTHWmN8RtUt_WpjbVGstNqSdiPOafI" />
-    <title lang="he">סליחה על השאלה ילדים 3 - 2. ילדים שנולדו</title>
-  </programme>
-  <programme start="20261115210000 +0000" stop="20261115212800 +0000" channel="KanEducational.il">
-    <desc lang="he">חבורה של ילדי שמנת ונוער בסיכון מוצאים את עצמם יחד באותה סירה. 1. משפחה לא בוחרים. התאומים בעז ואחיו מתערבים מי יוביל את צוות צופי הים שלו לניצחון. כשבעז רואה מי הנערים בצוות שקיבל חושכות עיניו.כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/51yhODEFulhUJQ089iO6lpo7ZGDxNfqUF_07wJt-fF5k2w1hYe4AnB4JLgkqo9Ig7rCxsJGtwRtUbZbKqLA80Ga8E0kNOTBMe0rVFOg" />
-    <title lang="he">עמוק במים - פרק 1</title>
-  </programme>
-  <programme start="20261115212800 +0000" stop="20261115220000 +0000" channel="KanEducational.il">
-    <desc lang="he">נורי מתחמקת מעומר ומגיא ומחפשת מחדש את הקול שלה דרך אבא של סופי. רפאל מודאג מהפרעות האכילה של זיו ומערב את מנר. פלג מנסה את מזלו עם עדן אחות של שירן, למרות שהיא מבוגרת ממנו בשנתיים. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/je7HBV3DzsugsGuec1VO9NqwLsvvoarSOQqLfQ6zcSYLGX_6EHoTiLO9vu4PuDniIDYRXPJrN38RBETiYBlLPE2O-yMrbveDURCzRVY" />
-    <title lang="he">מקיף מילאנו 2 - 6. שומעת פיקס</title>
-  </programme>
-  <programme start="20261115220000 +0000" stop="20261115222600 +0000" channel="KanEducational.il">
-    <desc lang="he">ירדן נשבע למאיה שאין כלום בינו לבין יולי. שיר חושדת שעילי מתכנן פשע עם דני וזוהר. מאיה רוצה לבטל את הקמפיין. אלונה נלחצת בגלל ויכוח בין ההורים. שגיב חוקר את ירדן. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/j1QsI0cwufz_zR8NC8mvx2jYEwqGSBHBorpzBNAdjzbIaUjAEGcy5fIPewCutwrbv9tC6rVIdwk2JOn2YnLIrIp8glw5Cd_k9XADWhQ" />
-    <title lang="he">מיוחדת - 11. שמונה ציורים</title>
-  </programme>
-  <programme start="20261115222600 +0000" stop="20261115225000 +0000" channel="KanEducational.il">
-    <desc lang="he">גולדפיש מזהירה שלחבורה יש 48 שעות בלבד לפני שהעיר תתפרק לחלוטין. רון שוקע בדיכאון עמוק בגלל עזיבתה של סתיו, חן מתעמתת איתו בקפיטריה ומאיימת לאמלל את חייו. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/uO-TpKuMQuNkyIE5UpZN3t3kSEs-zFk8xxrizNV3xfMXSpK5km4qbA6bmXLhgOBcR4-32KTenY9tXoDyoBTRlFBcdMZ4GQr7Rkp2wYc" />
-    <title lang="he">הסדרתיים 2 - 17. כל דבר מזכיר לי אותה</title>
-  </programme>
-  <programme start="20261115225000 +0000" stop="20261115231200 +0000" channel="KanEducational.il">
-    <desc lang="he">במלון מצלמים סרט דוקו, על השוער האגדי של מכבי תל אביב, לירן שטראובר. גורי בונה על הכסף כדי לקחת את המשפחה לתאילנד, הבעיה היא שאורלי, אוהדת הפועל שרופה, מסכנת הכל. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/KgnRKc0lwQr29ioX4y_eUHXZx8igjFkomFKJdUswa54k67CNGG0QCKeu3eiYxaFEVI3-EwqB6RdBmmvW-jK5GYzjmyah87ETIBTCQOg" />
-    <title lang="he">מלון הוטל 3 - 12. מי שלא קופץ צהוב</title>
-  </programme>
-  <programme start="20261115231200 +0000" stop="20261115232800 +0000" channel="KanEducational.il">
-    <desc lang="he">נערים עובדים עונים על שאלות שלא העזתם לשאול אף פעם כמו: כמה כסף הם מרוויחים, האם הם עובדים כי הם חייבים והאם צועקים עליהם בעבודה. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/UdvvZ_NouVVjQbGOncDWIxgSCoJp9_2rLT9dGgto5qyp0-UiMLX1rPiHgAjH0-NnTbBxva2g_sTHWmN8RtUt_WpjbVGstNqSdiPOafI" />
-    <title lang="he">סליחה על השאלה ילדים 3 - 4. נערים עובדים</title>
-  </programme>
-  <programme start="20261115232800 +0000" stop="20261115235500 +0000" channel="KanEducational.il">
-    <desc lang="he">הכיתה יוצאת ליום גיבוש, תלמידה חדשה ומפתיעה מצטרפת. דורית מבינה שהיא טעתה ומנסה להשלים עם ריהאם. אימאן מקבלת טלפון לא צפוי מטארק, ושירה יוצאת בהכרזה גורלית מול כל הכיתה. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/J-UXCqAWl19RIBpqm6_2Ykz5SyVAOUqRiD_g9bVwyqwhZMKfyjkJfB34ASFNoELY7Q4qoPyO30T1V2hk6cmyHCtFgXO3dCAepdjrxq0" />
-    <title lang="he">מדרסה - 11. ערב גיבוש</title>
-  </programme>
-  <programme start="20261115235500 +0000" stop="20261116002200 +0000" channel="KanEducational.il">
-    <desc lang="he">חבורה של ילדי שמנת ונוער בסיכון מוצאים את עצמם יחד באותה סירה. 1. משפחה לא בוחרים. התאומים בעז ואחיו מתערבים מי יוביל את צוות צופי הים שלו לניצחון. כשבעז רואה מי הנערים בצוות שקיבל חושכות עיניו.כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/51yhODEFulhUJQ089iO6lpo7ZGDxNfqUF_07wJt-fF5k2w1hYe4AnB4JLgkqo9Ig7rCxsJGtwRtUbZbKqLA80Ga8E0kNOTBMe0rVFOg" />
-    <title lang="he">עמוק במים - פרק 1</title>
-  </programme>
-  <programme start="20261116002200 +0000" stop="20261116005300 +0000" channel="KanEducational.il">
-    <desc lang="he">נורי מתחמקת מעומר ומגיא ומחפשת מחדש את הקול שלה דרך אבא של סופי. רפאל מודאג מהפרעות האכילה של זיו ומערב את מנר. פלג מנסה את מזלו עם עדן אחות של שירן, למרות שהיא מבוגרת ממנו בשנתיים. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/je7HBV3DzsugsGuec1VO9NqwLsvvoarSOQqLfQ6zcSYLGX_6EHoTiLO9vu4PuDniIDYRXPJrN38RBETiYBlLPE2O-yMrbveDURCzRVY" />
-    <title lang="he">מקיף מילאנו 2 - 6. שומעת פיקס</title>
-  </programme>
-  <programme start="20261116005300 +0000" stop="20261116011600 +0000" channel="KanEducational.il">
-    <desc lang="he">למה אנחנו לא זוכרים דברים מהתקופה בה היינו תינוקות? מי גילה את הקפה? האם דגים יכולים לטבוע? אורחים באולפן: לימור שטוץ, מרצה למדעי המוח, וד''ר רוני טייכר, המומחה שלנו למדעים. כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/IxV1GPt74VpMCPBF5LXHnCWr2QyPHQW9v7L3tIkpDKNjnu0Lk5NtCN8ULtUoXXMPJs27H8f4DiVw6oDezhbR-1Ye4JLBx52EM2xZnuM" />
-    <title lang="he">החפרנים - האם דגים יכולים לטבוע?</title>
-  </programme>
-  <programme start="20261116011600 +0000" stop="20261116013200 +0000" channel="KanEducational.il">
-    <desc lang="he">המצאת כלי התקשורת הפופולרי בעולם. מהפיתוחים הראשונים והקרב על המצאת הרדיו, לשימושים במלחמות העולם והפיכתו למכשיר לבידור המונים. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/4LJi8dkmMTgddH64AFFYlHe7pGyGj5hj_MEzB-xM0hyv2ROijvfDX7GXgj5JUH66Xwz5-Hn39H2Rqp9p6GVo9fmDSseO6Axf4k6aFGI" />
-    <title lang="he">חדשות מהעבר: מהדורה עולמית 2 - רדיו</title>
-  </programme>
-  <programme start="20261116013200 +0000" stop="20261116015800 +0000" channel="KanEducational.il">
-    <desc lang="he">איפה נמצא גשר הצבים? היכן מסתיים שביל ישראל? התשובות בשעשועון בנושא טיול שנתי במשחקי המוח, בהשתתפות הילדים המתחרים: עדו זקשנסקי, עידר סמסון ושני עופר. בהנחיית מרב פלדמן ואיתי הרמן (הצ'ייסר). כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/RrxbkEQRLrVUPAcYtSCATF3CyMf3-0IPfmzVTF5m_t2FcqfUVQYB0kPYrtDO7CEJ2lchq7f7F4O8IA_EhZwYH1QQe2RYbhX14PAqi9E" />
-    <title lang="he">משחקי המוח - 6. טיול שנתי</title>
-  </programme>
-  <programme start="20261116015800 +0000" stop="20261116021400 +0000" channel="KanEducational.il">
-    <desc lang="he">נורית היחמורית סובלת מפצע חמור ברגל, שבגללו היא עלולה לפספס את חלון ההזדמנויות היחיד בשנה להשתחרר לטבע עם שאר היחמורים. בינתיים בבית החולים הצוות מטפל בדוכיפת שהגיע נסער מן הטבע, ופשוט סרב לאכול.כ' עב ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/Irh4829snWsrHsVa2j_jzILKggJpE9AO_HjlxQVb0H8G7C_mQAH2RcaFzPCY3ekJiD9IRkovU50X8LVKYb2VYQ468oDFyWgkYHB-Zgw" />
-    <title lang="he">להציל את חיות הבר 2 - 7. דוכיפת ויחמור</title>
-  </programme>
-  <programme start="20261116021400 +0000" stop="20261116022700 +0000" channel="KanEducational.il">
-    <desc lang="he">שרגא נתקע במעלית הבניין ותיקונה הצריך ממנו לבקש מהדיירים לשלם את חובם. עליזה טענה כי היא צריכה לשלם פחות מהדיירים בקומות הגבוהות כי היא משתמשת בה פחות. בדומה ליוון העתיקה שם כל אחד שילם בהתאם לרווחיו. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/99wb5zJ9Ja3pIE00MMMAHoJ2AQAHqJIFZQATwJYYiA8hlNvDNDApCO1fsIpvvABlf_Myf86bvpoZI2cuedTyooHikWumLWSHELXFGEM" />
-    <title lang="he">שרגא בישגדא - סולון</title>
-  </programme>
-  <programme start="20261116022700 +0000" stop="20261116025200 +0000" channel="KanEducational.il">
-    <desc lang="he">האם בנים מצחיקים יותר מבנות? יולי מעבירה בשיעור פתק לדותן ודוקי, אבל אילנה קוראת אותו ונעלבת, והם מסתבכים. אופק מגלה שלא הוזמן לבית של חברים, ומחליט לקנות את החברות איתם בכסף. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/lOslEOm8gTkLXltaxfuL8muDxKtyA3n0r2vK-rz3TW9_TRimT1JiDCFFYeQi5NprVIW7wjzrlGkrwYttoDfEE9Yc-2lT5Wg82khRpbQ" />
-    <title lang="he">שקשוקה עונה 2 - 1. יולי מעליבה</title>
-  </programme>
-  <programme start="20261116025200 +0000" stop="20261116030800 +0000" channel="KanEducational.il">
-    <desc lang="he">מה קורה כשדניאל, רומי, שחר וצוף כבר פחות מבלים יחד? ומה קורה כשחבורה חדשה מגלה את בית העץ? ומי זה האיש שלובש את המדים של אלברט? כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/m5IIjp2ZOhbJGWzgCFqnlRGPqFB3q3bVQBlTQNk_8OlmStTSCYZOmDrKs6GgOHt7mi7xrSosBKdLjptrbs7A3s8W5IK2_csCYY32y9Y" />
-    <title lang="he">ילדי בית העץ 3 - 1. לשחרר א'</title>
-  </programme>
-  <programme start="20261116030800 +0000" stop="20261116031700 +0000" channel="KanEducational.il">
-    <desc lang="he">איך מציירים חרגול? ואת פרעה? מתי המציאו את הטלפון? אורי פינק ואייבי, העיפרון המדבר, עובדים ביחד בסטודיו הקסום של אורי. בין ציור קומיקס אחד לשני הם משחקים - ''ארץ עיר''. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/iO0n-k51A6xBPaPXF9PGdOT1n2zM3Tu1_9VuVn3C24tT8yi-hOPUBUXJs74ODoqmEthRGOvxu-B3z17lU349yaIrL1rfxp9XlPsOwA" />
-    <title lang="he">העיפרון הכי מחודד - בלי סודות</title>
-  </programme>
-  <programme start="20261116031700 +0000" stop="20261116032400 +0000" channel="KanEducational.il">
-    <desc lang="he">זוהי הרפתקה בים הפתוח כשבלואי, בינגו ומיסי משחקות בשודדי ים על הנדנד, אבל הן יצטרכו למצוא את האומץ שלהן כדי לעמוד בפני סערות פראיות והתקפות לווייתנים. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/uciM9cVrQEi5pyVmfShKLT8i201qeCkrcPqKdG5eZQvIAAwA6HRrjPG-KAzHZfXec2nW7cmPGyoKczf9mDcTOJ7RrvsGakOJc90UCmk" />
-    <title lang="he">בלואי - 27. פיראטים</title>
-  </programme>
-  <programme start="20261116032400 +0000" stop="20261116033200 +0000" channel="KanEducational.il">
-    <desc lang="he">משחק ה''סבתות'' מהנה עד שבינגו ובלואי לא מסוגלות להסכים בנוגע לשאלה אחת פשוטה: האם סבתות יכולות לרקוד את ריקוד הפלוס? עליהן לצלצל לננה כדי למצוא את התשובה. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/uciM9cVrQEi5pyVmfShKLT8i201qeCkrcPqKdG5eZQvIAAwA6HRrjPG-KAzHZfXec2nW7cmPGyoKczf9mDcTOJ7RrvsGakOJc90UCmk" />
-    <title lang="he">בלואי - 28. סבתות</title>
-  </programme>
-  <programme start="20261116033200 +0000" stop="20261116034300 +0000" channel="KanEducational.il">
-    <desc lang="he">פילו בורח מכלב קטן ואומר שהתנהגות אמיצה היא לא פזיזה. באספת החתולים הוחלט לגרש את המקקים, וסופי מתנגדת להחלטה. היא יוצאת להגן על איכסה ועל חבריו, וכולם חושבים שהיא גיבורה. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/VAdVMdLeokeePf5Rnva-CKLeW-Aeuq2rSsPCsfpM5efMNDayW9cNtsHKP0Si-p58PC7iKZl09Wr0clx6ck1mkCY2WgOujLm7gwxpPQ" />
-    <title lang="he">פילו וסופי - 11. אסיפת חתולים</title>
-  </programme>
-  <programme start="20261116034300 +0000" stop="20261116040000 +0000" channel="KanEducational.il">
-    <desc lang="he">בנה עובדת על יצירה, ובטעות נדבקים לשיערה שני גזרי נייר. טישה רואה, מתלהבת ומכריזה שפסי נייר בשיער הם האופנה האחרונה. אבל פתאום צצה מתחרה על האופנה האחרונה - ליבי וכובעי הנייר שלה. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/oNT7OvKmzCTblIU872GG6yejc24Nv9eOLfe0Bui-CrL581rbVZT0Q9L5Q6cTqxNYOU9Dd323a3DzwQcnM827BjdrGZibl-z1nX7juY4" />
-    <title lang="he">בחצר של פופיק 5 - 21. האופנה האחרונה של</title>
-  </programme>
-  <programme start="20261116040000 +0000" stop="20261116041600 +0000" channel="KanEducational.il">
-    <desc lang="he">צ'ילי ודן אוהבים לשמוע סיפורים. והפעם ''אנה מחפשת גבולות'' סיפור על אנה שמחליטה לצאת למסע כדי להבין מהם גבולות. בעזרת החתול, האנפה, הנשר והשחף היא עפה מעל האדמה ומחפשת את הגבולות שראתה באטלס.שס''י. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/VqHiEUYYjmEywCWwHZc5eGPP0SPrvj-ZsqBPONpy-sWvYZdjxXsWPYX_S4vllFgV0Z3qTFJnog4mgOt24ncUj6uONc2uwaYIjXa9ddY" />
-    <title lang="he">אפצ'י וסיפור - 14. אנה מחפשת גבולות</title>
-  </programme>
-  <programme start="20261116041600 +0000" stop="20261116044500 +0000" channel="KanEducational.il">
-    <desc lang="he">החינוכית מציגה: עפרה מציירת שלושה פסים על רקע לבן, אך בץ רואה רק שני פסים אדומים. איך זה יכול להיות? בץ ואוזה פותרים חידות ויזואליות ומגלים עולם מלא פסים. (בליווי שפת הסימנים). ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/1ahVGccXjxdYt8UzpXbqBVHWylbWDxAooAVBSHatVdB0gcAADwK-GiU9fyYiPJG-Hw3KS2dB-Pld-XN1WuZNWqaLcSbgvkegVo6OxS0" />
-    <title lang="he">פרפר נחמד - פסים פסים</title>
-  </programme>
-  <programme start="20261116044500 +0000" stop="20261116045200 +0000" channel="KanEducational.il">
-    <desc lang="he">בלואי, בינגו, אימא ואבא משחקים במשחק בובות ידיים וחוקרים את הארץ מעבר להרים הכחולים, שם הם מערימים על שועל ערמומי ומוצאים את המיטות הרכות בעולם. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/uciM9cVrQEi5pyVmfShKLT8i201qeCkrcPqKdG5eZQvIAAwA6HRrjPG-KAzHZfXec2nW7cmPGyoKczf9mDcTOJ7RrvsGakOJc90UCmk" />
-    <title lang="he">בלואי - 21. ההרים הכחולים</title>
-  </programme>
-  <programme start="20261116045200 +0000" stop="20261116050000 +0000" channel="KanEducational.il">
-    <desc lang="he">בזמן שאימא אורזת לבילוי בבריכה, בלואי ואבא מקניטים אותה על כך שהיא מגזימה עם האריזה. אבל כשהם מגיעים לא מוכנים, הם מבינים שקצת תכנון משמעותי מאוד. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/uciM9cVrQEi5pyVmfShKLT8i201qeCkrcPqKdG5eZQvIAAwA6HRrjPG-KAzHZfXec2nW7cmPGyoKczf9mDcTOJ7RrvsGakOJc90UCmk" />
-    <title lang="he">בלואי - 22. הבריכה</title>
-  </programme>
-  <programme start="20261116050000 +0000" stop="20261116051300 +0000" channel="KanEducational.il">
-    <desc lang="he">שרלוט חוששת לומר לסבתה שהיא לא אוהבת את צבע השמלה שקיבלה ממנה במתנה, ובעזרת הנסיך הקטן וציירת הכוכבים הגדולה היא לומדת שחשוב לדבר עם אנשים שאוהבים אותנו כשיש לנו בעיה. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/d8sZzd02mycWlHJ_s1YAAt6kEm6SYpIfvAEgFcijp_M8lS2fwDLH9mGER3C6LdbTL5PITKkZoec8Jaf6N59UmqAqknEwJgwmwP9muZU" />
-    <title lang="he">הנסיך הקטן וחברים - 22. כל צבעי הקשת</title>
-  </programme>
-  <programme start="20261116051300 +0000" stop="20261116052600 +0000" channel="KanEducational.il">
-    <desc lang="he">גזר לוקח את שון, סידני וג'ט לטיסה בחלל בחיפוש אחר זוהר הקוטב. למינדי אסור לטוס, וכתם שמש מתנדב להישאר כדי שהיא תשמור עליו. כ' עב. ד' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/H6CxdhaUDRyF67j6XNYuuYUb4ePis7_nbpoFl2XIGw6VJfII0XZJ4URHb9hwwJyokEbStsnkiVpA6xZGHMB8yCtedK-scMOKGKzgewQ" />
-    <title lang="he">היכון הכן טוס - 37. מינדי שומרת הטף</title>
-  </programme>
-  <programme start="20261116052600 +0000" stop="20261116055200 +0000" channel="KanEducational.il">
-    <desc lang="he">אסתר ואורי מכינים ארגזים לתרומה, ונולי נרתמת בשמחה. האם שבי יסכים לתרום מאוסף הכדורים המפואר שלו? ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/bqU5GMHOt-x4nl0d5eC1PJbShEWVBwbqBD0PooFPcBccFDu3kBisQbw4UgHcYRQkRLh2s0yPLCTFoCBT8vUgjZ7WpORiwPc7LFVpiII" />
-    <title lang="he">פרפר נחמד - 14. אוסף הכדורים של שבי</title>
-  </programme>
-  <programme start="20261116055200 +0000" stop="20261116060800 +0000" channel="KanEducational.il">
-    <desc lang="he">יהלי נעלבת מעמית ורוצה להחליף אח. חדווה נותנת לתמרי מזמרה משוכללת, אבל תמרי מעדיפה את הישנה והמוכרת שלה. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/8aV1QKX85NaRelVJTpwjuDGXBsLRNW3R09EAZIOUAdzQtz8nCEQzZHgzJWDYWKuWE_HuX-64GB9sp1OgnqBjogw-WfK7wSlUt7f7ApY" />
-    <title lang="he">הגינה של תמרי - 12. אח גדול חדש בכאילו</title>
-  </programme>
-  <programme start="20261116060800 +0000" stop="20261116061900 +0000" channel="KanEducational.il">
-    <desc lang="he">דרדסית לא מצליחה לנוח בין כל המטלות שלה ומקבלת שיעור בדרדסעצלניזם מישנוני. דרדסית, כמו תמיד לוקחת את זה רחוק מידי. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/x6LDlCJUHOAL7pYoQ4qk6Whhm446UOz7ZqoipbKukseHjA-eHkyYu2s6ihl4nWSwO4xgSecJn7lSASU0AP7Xl9rdStn1yTJyIxFY5-g" />
-    <title lang="he">הדרדסים 2 - 16. דרדסית מגזימה</title>
-  </programme>
-  <programme start="20261116061900 +0000" stop="20261116063200 +0000" channel="KanEducational.il">
-    <desc lang="he">אסי נבחר לגלם דמות רקע בסרט החדש של ''מר גיבור-על''. אבל יוני חושב שלאסי מגיע תפקיד גדול יותר, והוא יעשה מה שהוא יכול כדי לגרום לאסי להרגיש כמו כוכב אמיתי בבית הספר. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/dEszKas8gNEDV0MInbpKetsyq8FktmlaoUjVZxuQ5Y1bc2k70A74EzfCJenNHpWJDX8V7JrsZvWRxnHodj7TLENmDd1lSsxL0oUER6k" />
-    <title lang="he">זה יוני - 22. אסי הכוכב</title>
-  </programme>
-  <programme start="20261116063200 +0000" stop="20261116065500 +0000" channel="KanEducational.il">
-    <desc lang="he">מרינט מנסה לזגזג בין אהבתה לאדריאן ובין האחריות שלה לשמור על מנון, הבת של חברה של אימה. כשסופת הקרח המרושעת תוקפת, מרינט יוצאת להילחם בה בדמות החיפושית המופלאה עם קצת עזרה מאדריאן, החתול השחור. ד' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/iuYbAowOsK9WLkORSGH9mQOhzA3CwzfLNn4w6Gg1YNaf4d56sqcq5NFfVNw8EG4jXN8FISWSksQz7v3pj7x3_i10pcB8o32p69Jrknc" />
-    <title lang="he">המופלאה: הרפתקאות ליידי באג - 22. סופת ק</title>
-  </programme>
-  <programme start="20261116065500 +0000" stop="20261116070800 +0000" channel="KanEducational.il">
-    <desc lang="he">אלברט מחפש עוזר לקראת ביקור בחורשה של משלחת מסין. טלילה נבחנת למשרה, ואלברט מקבל אותה בלית ברירה. כשהיא נוקטת יוזמה מאחורי גבו של אלברט הוא מפטר אותה, אבל אז מגיעים הסינים. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/LDIHZ-3s5cqC7oZ15-co-KAdFGYHkzS-Bt1T7Ua_G0TYOVImI7kDaU85C6_va5oH-UzeI_f5I_3xYrh8t-EUuyf_8co58y-BlFGssgw" />
-    <title lang="he">ילדי בית העץ 2 - 13. דרוש עוזר פקח</title>
-  </programme>
-  <programme start="20261116070800 +0000" stop="20261116072300 +0000" channel="KanEducational.il">
-    <desc lang="he">האבודים בריבוע מבררים מי המציא את האפס ואיך זה קשור ליום ההולדת שלכם? כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/qKdqHohTVvA-w5aBMvriDQtHlGeAuEZ7UZAaRB3Tp_GgY5c5baECW4m2b4SRomropC6Mie3L4umBtrDr0y0wzxNXr5l6wVin9B891IQ" />
-    <title lang="he">אבודים בריבוע - 2. אפס</title>
-  </programme>
-  <programme start="20261116072300 +0000" stop="20261116074000 +0000" channel="KanEducational.il">
-    <desc lang="he">איך ציפור קטנה במשקל 15 גרם עפה אלפי ק''מ בלילה החשוך, חוצה יבשות וימים? נעקוב אחר נדידת הציפורים הגדולה מאילת ועד אגמון החולה בצפון. לא רק ציפורים נודדות, גם חולות נודדים ואת עולם החי שלהם נכיר.כ' עב' ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/h1xtkk09DEbsn-iphjj7XU2hgUgQkcu7MU70YxF4kD1k3DtIepBS-dPcaQH1D-NqNHRfpiNhdZ5TbZ3O1oQQUCDHn94EdAeB_ESm9aw" />
-    <title lang="he">חיות שטח - 2. נודדים</title>
-  </programme>
-  <programme start="20261116074000 +0000" stop="20261116080600 +0000" channel="KanEducational.il">
-    <desc lang="he">האם אפשר להקפיא מישהו לצורך מסע בחלל? האם טיסה מערבה תיקח פחות זמן מטיסה מזרחה? ומהי ההמצאה שבזכותה יש לנו היום- תוכנת ניווט? כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/IxV1GPt74VpMCPBF5LXHnCWr2QyPHQW9v7L3tIkpDKNjnu0Lk5NtCN8ULtUoXXMPJs27H8f4DiVw6oDezhbR-1Ye4JLBx52EM2xZnuM" />
-    <title lang="he">החפרנים - ספיישל מסעות</title>
-  </programme>
   <programme start="20261116080600 +0000" stop="20261116082800 +0000" channel="KanEducational.il">
     <desc lang="he">תכנית ידע קומית העוסקת בגוף האדם. הילה קורח ושני הנסיינים דובדבני וקובץ' בודקים את כל מה שקורה לגוף שלנו כשאנחנו הולכים לים. אורח: ד''ר ארז גרטי, מכון דוידסון, מכון ויצמן למדע. כ' עב'. ש.ח.</desc>
     <icon src="https://iptv-epg.org/images/019CAS4OBloWkqSfublolyUo7bpw39GKbUkaQ_MwXmK8gmuOn_HSorXWwDFXrh8uoLDXS_12hRR1xD92ot5My37cKzM0y8v7H6FhJco" />
@@ -4689,5 +4450,335 @@
     <desc lang="he">לבנץ נמאס מהביקורים של השטן בכדור הארץ. כשהוא סוף סוף מעז להגיד לו שהוא רוצה קצת חופש ופרטיות, השטן מקבל את זה מאד גרוע. יוני מנסה לעזור לשיא-גל עם חגיגת סגן המנהל המסורתית ומסבך אותה עם המנהלת.כ' עב' ש.ח.</desc>
     <icon src="https://iptv-epg.org/images/coPCNblYOQPSZ_g-cx1yk8E5D0Gv3DBYVLLuRsIQmBL7BRKruLPaIqpIFSt8bfZ72bOifk5_-3piRBaWvkPU7m66_9riE5gXUg4PtGA" />
     <title lang="he">האחיין שלי בנץ - 8. המלחמה הקרה</title>
+  </programme>
+  <programme start="20261121221200 +0000" stop="20261121223700 +0000" channel="KanEducational.il">
+    <desc lang="he">גורי חוגג את סוף החוזה שמכריח אותו לדאוג כלכלית לאלכסיס, מה שבעיקר הולך להפתיע את סוון. אורי מוצא טלוויזיה קסומה שתעזור לו להרשים את גזאלה. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/KgnRKc0lwQr29ioX4y_eUHXZx8igjFkomFKJdUswa54k67CNGG0QCKeu3eiYxaFEVI3-EwqB6RdBmmvW-jK5GYzjmyah87ETIBTCQOg" />
+    <title lang="he">מלון הוטל 3 - 7. טלוויזיה מהעתיד</title>
+  </programme>
+  <programme start="20261121223700 +0000" stop="20261121230200 +0000" channel="KanEducational.il">
+    <desc lang="he">יום ההולדת של אורלי משגע את המלון. סטפן מקים את להקת סטפן והשמוקלרים, נאיה מנסה לייצר את מתנת יום ההולדת המושלמת- הולוגרמה של פיני בלילי. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/KgnRKc0lwQr29ioX4y_eUHXZx8igjFkomFKJdUswa54k67CNGG0QCKeu3eiYxaFEVI3-EwqB6RdBmmvW-jK5GYzjmyah87ETIBTCQOg" />
+    <title lang="he">מלון הוטל 3 - 8. פיני בלילי הולוגרמה</title>
+  </programme>
+  <programme start="20261121230200 +0000" stop="20261121232800 +0000" channel="KanEducational.il">
+    <desc lang="he">בדירת ליאורה ויורם מופיע שוטר ומשאיר הזמנה לחקירה בשביל אילן. כל המשפחה מודאגת ומלאת חששות. תיקי מנסה לעזור לאילן. כ' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/yZ5KIZEZB5-kjCPZW3SaDkfuyY5BlHS4X4XiDR0lahe6dR1vP-1aRKIeUil2YU1ZW5x3c3jWcKiNjC-WLkd4DCARHkcwD6Y4Y389KCc" />
+    <title lang="he">קרובים קרובים - 25. אין עשן</title>
+  </programme>
+  <programme start="20261121232800 +0000" stop="20261121235700 +0000" channel="KanEducational.il">
+    <desc lang="he">ליאורה מדוכדכת. המשפחה מתייעצת איך להוציא אותה מהדכאון. חנה מציעה פתרון וכולם משתתפים במבצע. כ' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/yZ5KIZEZB5-kjCPZW3SaDkfuyY5BlHS4X4XiDR0lahe6dR1vP-1aRKIeUil2YU1ZW5x3c3jWcKiNjC-WLkd4DCARHkcwD6Y4Y389KCc" />
+    <title lang="he">קרובים קרובים - 26. פרפקט</title>
+  </programme>
+  <programme start="20261121235700 +0000" stop="20261122002500 +0000" channel="KanEducational.il">
+    <desc lang="he">''למה אין לנו דוד באמריקה?'' שואלת תיקי במהלך שיחה על גובה חשבונות החשמל של המשפחה. ''יש לנו דוד באמריקה'', מגלה חנה, ועל כן היא מצטווה מיד לכתוב לו מכתב. המכתב נכתב והמשפחה זוכה בחבילה מאמריקה. כ' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/yZ5KIZEZB5-kjCPZW3SaDkfuyY5BlHS4X4XiDR0lahe6dR1vP-1aRKIeUil2YU1ZW5x3c3jWcKiNjC-WLkd4DCARHkcwD6Y4Y389KCc" />
+    <title lang="he">קרובים קרובים - 27. חבילה מאמריקה</title>
+  </programme>
+  <programme start="20261122002500 +0000" stop="20261122005500 +0000" channel="KanEducational.il">
+    <desc lang="he">אל לשכת העבודה של ליאורה מגיעה שיחה של גבר ''בעל קול משגע'' כדברי ברוריה. מסתבר שזהו צביקה שחיזר אחרי ליאורה בעבר ומנסה עכשיו לחדש את הקשרים. תיקי מתפעלת ויורם איננו מתרגש. כ' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/yZ5KIZEZB5-kjCPZW3SaDkfuyY5BlHS4X4XiDR0lahe6dR1vP-1aRKIeUil2YU1ZW5x3c3jWcKiNjC-WLkd4DCARHkcwD6Y4Y389KCc" />
+    <title lang="he">קרובים קרובים - 28. אין אהבות שמחות</title>
+  </programme>
+  <programme start="20261122005500 +0000" stop="20261122012000 +0000" channel="KanEducational.il">
+    <desc lang="he">ילדים. 18. בעקבות הקמע האבוד, חלק א'. כ' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/ffD2SI5K3SJ0eTsM_U7q9jXQ4D5F9P0Tq_niq7rDEzlzJ7VaCHDvcbQuo05kk0YAR2VcSdum-5fa7k9xN3yqYBkfKHxIqIHa4t7pma8" />
+    <title lang="he">הופה היי - 18. בעקבות הקמע האבוד, חלק א'</title>
+  </programme>
+  <programme start="20261122012000 +0000" stop="20261122014300 +0000" channel="KanEducational.il">
+    <desc lang="he">השלישייה ומעיין ממשיכים בחיפוש אחר החצי השני של הקמע וזאת אחרי שהחצי הראשון נגנב ע''י הטורקים. כשהם מגיעים למאגר אשכול, מתחיל המרדף הגדול אחר הקמע והטורקים. השלישייה ומעיין שרים את ''ילד ים תיכוני''.כ עב ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/ffD2SI5K3SJ0eTsM_U7q9jXQ4D5F9P0Tq_niq7rDEzlzJ7VaCHDvcbQuo05kk0YAR2VcSdum-5fa7k9xN3yqYBkfKHxIqIHa4t7pma8" />
+    <title lang="he">הופה היי - 19. בעקבות הקמע האבוד, חלק ב'</title>
+  </programme>
+  <programme start="20261122014300 +0000" stop="20261122021500 +0000" channel="KanEducational.il">
+    <desc lang="he">איך מעיין והשלישייה ייחלצו את החלק השני של הקמע? האם יצליחו לעצור את הטורקים? בהופעה השלישייה שרה את השירים ''חבר שלי'' ו''בכל מקום בונים'' בלחן אחר. השלישייה מסבירה איך מנקים את המים באמצעות הדגים.כ' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/ffD2SI5K3SJ0eTsM_U7q9jXQ4D5F9P0Tq_niq7rDEzlzJ7VaCHDvcbQuo05kk0YAR2VcSdum-5fa7k9xN3yqYBkfKHxIqIHa4t7pma8" />
+    <title lang="he">הופה היי - 20. בעקבות הקמע האבוד, חלק ג'</title>
+  </programme>
+  <programme start="20261122021500 +0000" stop="20261122025200 +0000" channel="KanEducational.il">
+    <desc lang="he">קבוצת תלמידים נאלצת לצאת לטיול בטבע עם המורה להתעמלות כי המורה לטבע חולה. שלישיית הופה היי יוצאת לחיפוש אחריהם ומוצאת אותם בשטח עם כאבי בטן לאחר שאכלו מהצמחים שבשטח. הם מפנים את כל התלמידים באמבולנס. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/ffD2SI5K3SJ0eTsM_U7q9jXQ4D5F9P0Tq_niq7rDEzlzJ7VaCHDvcbQuo05kk0YAR2VcSdum-5fa7k9xN3yqYBkfKHxIqIHa4t7pma8" />
+    <title lang="he">הופה היי - במקורות הירדן</title>
+  </programme>
+  <programme start="20261122025200 +0000" stop="20261122032300 +0000" channel="KanEducational.il">
+    <desc lang="he">השלישייה מתארחים בחוות הסוסים ביוטבתה. יגאל ופררה מטפלים ומנקים את הסוסים ופררה סובל מהריח המסריח ואבי קוטף תמרים ומתלונן על פחד גבהים ועבודה קשה. השלישייה מצילה את הסוס בנג'ו ממכירה לתייר מארה''ב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/ffD2SI5K3SJ0eTsM_U7q9jXQ4D5F9P0Tq_niq7rDEzlzJ7VaCHDvcbQuo05kk0YAR2VcSdum-5fa7k9xN3yqYBkfKHxIqIHa4t7pma8" />
+    <title lang="he">הופה היי - בחוות הסוסים יטבתה</title>
+  </programme>
+  <programme start="20261122032300 +0000" stop="20261122033100 +0000" channel="KanEducational.il">
+    <desc lang="he">האות נ'. בפרק זה אורי מלמד את אייבי העיפרון איך לצייר נמלה, נקניקייה ונדנדה. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/iO0n-k51A6xBPaPXF9PGdOT1n2zM3Tu1_9VuVn3C24tT8yi-hOPUBUXJs74ODoqmEthRGOvxu-B3z17lU349yaIrL1rfxp9XlPsOwA" />
+    <title lang="he">העיפרון הכי מחודד - האות נ': נמלה</title>
+  </programme>
+  <programme start="20261122033100 +0000" stop="20261122034400 +0000" channel="KanEducational.il">
+    <desc lang="he">סופי חושבת שמיילו הכלב כועס עליה ומכינה לו שיקוי אהבה. פילו עוזר לה וסופי אומר לו ''אני אוהבת אותך פילו!''. פילו הנרגש מגלה שיש עוד המון דברים שסופי אוהבת. האם יש כמה סוגים לאהבה? ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/VAdVMdLeokeePf5Rnva-CKLeW-Aeuq2rSsPCsfpM5efMNDayW9cNtsHKP0Si-p58PC7iKZl09Wr0clx6ck1mkCY2WgOujLm7gwxpPQ" />
+    <title lang="he">פילו וסופי - 4. שיקוי אהבה</title>
+  </programme>
+  <programme start="20261122034400 +0000" stop="20261122035100 +0000" channel="KanEducational.il">
+    <desc lang="he">בלואי מנהלת תחנת מוניות. הנוסע הראשון שלה הוא אבא איש העסקים שממהר לשדה התעופה. אך בעקבות עיקובים לא צפויים, אבא עשוי לפספס את הטיסה שלו! ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/uciM9cVrQEi5pyVmfShKLT8i201qeCkrcPqKdG5eZQvIAAwA6HRrjPG-KAzHZfXec2nW7cmPGyoKczf9mDcTOJ7RrvsGakOJc90UCmk" />
+    <title lang="he">בלואי - 25. מונית</title>
+  </programme>
+  <programme start="20261122035100 +0000" stop="20261122040000 +0000" channel="KanEducational.il">
+    <desc lang="he">כשאימא יוצאת לטיול לבדה לאורך החוף, בלואי רצה לתפוס אותה. במהלך הדרך היא נתקלת במספר מפגשים שמרגשים ובוחנים אותה בהרפתקת היחיד הראשונה שלה. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/uciM9cVrQEi5pyVmfShKLT8i201qeCkrcPqKdG5eZQvIAAwA6HRrjPG-KAzHZfXec2nW7cmPGyoKczf9mDcTOJ7RrvsGakOJc90UCmk" />
+    <title lang="he">בלואי - 26. חוף הים</title>
+  </programme>
+  <programme start="20261122040000 +0000" stop="20261122040400 +0000" channel="KanEducational.il">
+    <desc lang="he">דיקו מוכיח שקסמים אפשר לעשות עם כל סוג של קלפים. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/sYOeV9_5SJrfRSxlXurTgYCtyDkZ4qU_OJR4VtO8zYkmoUdvQ62GeaLoRn8_mud4Q9ypykq8EOrqd-sQM0Ec6ws5EHz9nPj5YHWOme0" />
+    <title lang="he">בית ספר לקוסמים - טאקי</title>
+  </programme>
+  <programme start="20261122040400 +0000" stop="20261122041700 +0000" channel="KanEducational.il">
+    <desc lang="he">צ'ילי ודן אוהבים לשמוע סיפורים. כשצ'ילי מתעטשת איתי מגיע ומספר לה סיפור. והפעם על לולה שלא אוהבת לאכול כל דבר. צ'רלי אחיה מצליח בעזרת דמיון פורה וסיפורים לשכנע אותה לאכול גם דברים ש היא לא אהבה.שס''י. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/VqHiEUYYjmEywCWwHZc5eGPP0SPrvj-ZsqBPONpy-sWvYZdjxXsWPYX_S4vllFgV0Z3qTFJnog4mgOt24ncUj6uONc2uwaYIjXa9ddY" />
+    <title lang="he">אפצ'י וסיפור - 20. אוכל</title>
+  </programme>
+  <programme start="20261122041700 +0000" stop="20261122044500 +0000" channel="KanEducational.il">
+    <desc lang="he">בשיחה עם עפרה ועוזי מתברר שאחים מכעיסים לעיתים זה את זה, אך בסוף כולם צודקים. עפרה ובובות מספרות לנו על בנים ובנות, דודים, דודות, סבים וסבתות. לבסוף, כולם שרים את שיר המשפחה ''פתחו את השער''. שס''י. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/1ahVGccXjxdYt8UzpXbqBVHWylbWDxAooAVBSHatVdB0gcAADwK-GiU9fyYiPJG-Hw3KS2dB-Pld-XN1WuZNWqaLcSbgvkegVo6OxS0" />
+    <title lang="he">פרפר נחמד - 33. במשפחה</title>
+  </programme>
+  <programme start="20261122044500 +0000" stop="20261122045200 +0000" channel="KanEducational.il">
+    <desc lang="he">אבא משועמם ממגרש המשחקים המקומי הצפוף ולוקח את הילדות למסע לנחל המקומי. כשהיא לא באזור הנוחות שלה, בלואי מגלה את יופיו של העולם הטבעי. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/uciM9cVrQEi5pyVmfShKLT8i201qeCkrcPqKdG5eZQvIAAwA6HRrjPG-KAzHZfXec2nW7cmPGyoKczf9mDcTOJ7RrvsGakOJc90UCmk" />
+    <title lang="he">בלואי - 29. הנחל</title>
+  </programme>
+  <programme start="20261122045200 +0000" stop="20261122050000 +0000" channel="KanEducational.il">
+    <desc lang="he">פיות מגיעות לביתה של בלואי! זנבות נקלעים, יש מדבקות בכל מקום, ואימא קיבלה זקן. כעת המשפחה צריכה לעבוד יחדיו ולמצוא את הפיות השובבות. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/uciM9cVrQEi5pyVmfShKLT8i201qeCkrcPqKdG5eZQvIAAwA6HRrjPG-KAzHZfXec2nW7cmPGyoKczf9mDcTOJ7RrvsGakOJc90UCmk" />
+    <title lang="he">בלואי - 30. פיות</title>
+  </programme>
+  <programme start="20261122050000 +0000" stop="20261122051200 +0000" channel="KanEducational.il">
+    <desc lang="he">אלישע כועס על הברקים שגרמו לביטול הטיול הכיתתי, ובעזרת הנסיך הקטן וברק קטן ופרוע הוא לומד שכשכועסים עלולים לפספס את הדברים הנחמדים שיש. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/d8sZzd02mycWlHJ_s1YAAt6kEm6SYpIfvAEgFcijp_M8lS2fwDLH9mGER3C6LdbTL5PITKkZoec8Jaf6N59UmqAqknEwJgwmwP9muZU" />
+    <title lang="he">הנסיך הקטן וחברים - 26. הברק הקטן</title>
+  </programme>
+  <programme start="20261122051200 +0000" stop="20261122052600 +0000" channel="KanEducational.il">
+    <desc lang="he">מינדי אינה יודעת אם היא רוצה אח או אחות קטנים. ג'ט מספר לה שלצדק יש שישים ושבעה ירחים, וכולם מסתדרים זה עם זה מצוין. מינדי משתכנעת ומחליטה לקרוא לאח או לאחות על שם אחד מירחיו של צדק. כ' עב. ד' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/H6CxdhaUDRyF67j6XNYuuYUb4ePis7_nbpoFl2XIGw6VJfII0XZJ4URHb9hwwJyokEbStsnkiVpA6xZGHMB8yCtedK-scMOKGKzgewQ" />
+    <title lang="he">היכון הכן טוס - 41. המון ירחים</title>
+  </programme>
+  <programme start="20261122052600 +0000" stop="20261122054800 +0000" channel="KanEducational.il">
+    <desc lang="he">אוזה רוצה לארגן לבד ובעצמה הופעת תאטרון צלליות. היא מצליחה, אבל מרגישה קצת בודדה בדרך. אורי, אסתר ובץ מתאמנים בלהיות קהל וממציאים קריאות עידוד לאוזה. שס''י. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/bqU5GMHOt-x4nl0d5eC1PJbShEWVBwbqBD0PooFPcBccFDu3kBisQbw4UgHcYRQkRLh2s0yPLCTFoCBT8vUgjZ7WpORiwPc7LFVpiII" />
+    <title lang="he">פרפר נחמד - 48. יחד ולבד</title>
+  </programme>
+  <programme start="20261122054800 +0000" stop="20261122060500 +0000" channel="KanEducational.il">
+    <desc lang="he">הילדים מחליטים לשמח את תמרי בהפתעה, אבל מתקשים לשקר. אליעזר מתלבט מה לשתול בערוגה שלו ועוזר לנועה להחליט בעזרת תה ההחלטות. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/8aV1QKX85NaRelVJTpwjuDGXBsLRNW3R09EAZIOUAdzQtz8nCEQzZHgzJWDYWKuWE_HuX-64GB9sp1OgnqBjogw-WfK7wSlUt7f7ApY" />
+    <title lang="he">הגינה של תמרי - 16. הפתעה בהפתעה</title>
+  </programme>
+  <programme start="20261122060500 +0000" stop="20261122061700 +0000" channel="KanEducational.il">
+    <desc lang="he">קונדסון מחליט לכשף את רגזני כדי שיהפוך לחיובי ומועיל. וזה גורם לצרות גדולות כשרגזני מגיע לגרגמל. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/x6LDlCJUHOAL7pYoQ4qk6Whhm446UOz7ZqoipbKukseHjA-eHkyYu2s6ihl4nWSwO4xgSecJn7lSASU0AP7Xl9rdStn1yTJyIxFY5-g" />
+    <title lang="he">הדרדסים 2 - 20. בסדר גמור</title>
+  </programme>
+  <programme start="20261122061700 +0000" stop="20261122063000 +0000" channel="KanEducational.il">
+    <desc lang="he">הכלב של יולי עקב אחריה לבית הספר! יוני, אסי ויולי צריכים לאחד כוחות כדי להחביא את אולימפוס הכלב בבית הספר בלי שמישהו ישים לב.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/dEszKas8gNEDV0MInbpKetsyq8FktmlaoUjVZxuQ5Y1bc2k70A74EzfCJenNHpWJDX8V7JrsZvWRxnHodj7TLENmDd1lSsxL0oUER6k" />
+    <title lang="he">זה יוני - 26. אולימפוס בא ללימודים</title>
+  </programme>
+  <programme start="20261122063000 +0000" stop="20261122065300 +0000" channel="KanEducational.il">
+    <desc lang="he">אדריאן מוצא בכספת הסודית של אביו ספר שלם העוסק בכוחות-העל של מופלאים, וכשלילה, התלמידה החדשה בבית-הספר מתאהבת בו, היא משקרת לו ומספרת שהיא צאצאית של גיבורת-העל, וולפינה. ד' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/iuYbAowOsK9WLkORSGH9mQOhzA3CwzfLNn4w6Gg1YNaf4d56sqcq5NFfVNw8EG4jXN8FISWSksQz7v3pj7x3_i10pcB8o32p69Jrknc" />
+    <title lang="he">המופלאה: הרפתקאות ליידי באג - 26. וולפינ</title>
+  </programme>
+  <programme start="20261122065300 +0000" stop="20261122070800 +0000" channel="KanEducational.il">
+    <desc lang="he">בחורשה עומד להתקיים מרוץ ושחר מחליט להשתתף. הוא מבקש מצוף שתאמן אותו אבל אין לו סבלנות לשיטת האימונים שלה. הוא מפטר אותה ופונה לדניאל שיש לו תכנית אימונים מיוחדת במינה כ' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/LDIHZ-3s5cqC7oZ15-co-KAdFGYHkzS-Bt1T7Ua_G0TYOVImI7kDaU85C6_va5oH-UzeI_f5I_3xYrh8t-EUuyf_8co58y-BlFGssgw" />
+    <title lang="he">ילדי בית העץ 2 - 16. המירוץ</title>
+  </programme>
+  <programme start="20261122070800 +0000" stop="20261122072500 +0000" channel="KanEducational.il">
+    <desc lang="he">האבודים בריבוע מבררים כמה פעמים צריך לקפל נייר כדי שהוא יגיע לירח? כ' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/qKdqHohTVvA-w5aBMvriDQtHlGeAuEZ7UZAaRB3Tp_GgY5c5baECW4m2b4SRomropC6Mie3L4umBtrDr0y0wzxNXr5l6wVin9B891IQ" />
+    <title lang="he">אבודים בריבוע - 6. חזקות</title>
+  </programme>
+  <programme start="20261122072500 +0000" stop="20261122074000 +0000" channel="KanEducational.il">
+    <desc lang="he">נשוט מעל כרישים עפרוריים שקולטים טרף באמצעות חישה של אותות חשמליים. קצת מפחיד, שלא לומר מחשמל. נלמד כיצד מייצרת הדבורה חשמל סטטי וכמה זה חשוב בתהליך ההאבקה, ונחפש גחליליות זוהרות בחושך. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/h1xtkk09DEbsn-iphjj7XU2hgUgQkcu7MU70YxF4kD1k3DtIepBS-dPcaQH1D-NqNHRfpiNhdZ5TbZ3O1oQQUCDHn94EdAeB_ESm9aw" />
+    <title lang="he">חיות שטח - 6. מתח גבוה</title>
+  </programme>
+  <programme start="20261122074000 +0000" stop="20261122080500 +0000" channel="KanEducational.il">
+    <desc lang="he">מה באמת קורה על השמש שלנו? האם פצצה גרעינית שמתפוצצת במדבר הופכת את המדבר לזכוכית? לפי איזה חוקיות מסודרים הגרעינים שבחמניה? כ' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/IxV1GPt74VpMCPBF5LXHnCWr2QyPHQW9v7L3tIkpDKNjnu0Lk5NtCN8ULtUoXXMPJs27H8f4DiVw6oDezhbR-1Ye4JLBx52EM2xZnuM" />
+    <title lang="he">החפרנים - ספיישל גרעיני</title>
+  </programme>
+  <programme start="20261122080500 +0000" stop="20261122083000 +0000" channel="KanEducational.il">
+    <desc lang="he">תכנית ידע קומית העוסקת בגוף האדם. הילה קורח ושני הנסיינים דובדבני וקובץ' בודקים את כל מה שיכול לעזור לנו כשאנחנו מרגישים לא טוב. אורח: ד''ר גיל צ'פניק, מומחה לרפואת ילדים. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/019CAS4OBloWkqSfublolyUo7bpw39GKbUkaQ_MwXmK8gmuOn_HSorXWwDFXrh8uoLDXS_12hRR1xD92ot5My37cKzM0y8v7H6FhJco" />
+    <title lang="he">מתחת לעור - 35. מקדימים תרופה</title>
+  </programme>
+  <programme start="20261122083000 +0000" stop="20261122084800 +0000" channel="KanEducational.il">
+    <desc lang="he">אייל קיציס משמרטף על לאו מיפו - מוזיקאי בלהקת רוק שהולך להופיע הערב לראשונה מול קהל. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/oP8sXN9bUQpRPkoNThWzB-tk7H5cKqSaUEPPCMpb4HZAM-egKSqcYE4w9yP_gg9rKLpcACqdGvneHGfUvcJzo0ZoSmDcDlo0mGaRhVo" />
+    <title lang="he">השמרטפים - 20. לאו, יפו</title>
+  </programme>
+  <programme start="20261122084800 +0000" stop="20261122091200 +0000" channel="KanEducational.il">
+    <desc lang="he">אורי מתמודד באליפות הסמבו. הצעת עבודה שהוא מקבל מאגדת הכדורגל חיים רביבו מבלבלת אותו. אלכסיס מגלה את העבר הנוצץ של סוון ומקימה מוזיאון סוון בחדרם. סוון חושש שהיא מעדיפה את הגירסה הצעירה והמצליחה שלו. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/KgnRKc0lwQr29ioX4y_eUHXZx8igjFkomFKJdUswa54k67CNGG0QCKeu3eiYxaFEVI3-EwqB6RdBmmvW-jK5GYzjmyah87ETIBTCQOg" />
+    <title lang="he">מלון הוטל 3 - 13. הסמבו קיד</title>
+  </programme>
+  <programme start="20261122091200 +0000" stop="20261122093700 +0000" channel="KanEducational.il">
+    <desc lang="he">רגע לפני שההורים חוזרים הביתה, מגלים מיקה רוני ואיה שנבו נעלם...האם הם יספיקו למצוא אותו לפני שההורים חוזרים? ואיך זה קשור לניסן קיל? כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/EmG_EmgB29MRMI8Ko_-H3FMYg-ih_oZ2ZdO_tiqvD1wheJHLHr7SGIwcO0BvjwYe51_U0un-I_NBpjHZ2dWnJHEiFLbsn-R5r3EqzVE" />
+    <title lang="he">לבד בבית 2 - 16. איפה נבנב?</title>
+  </programme>
+  <programme start="20261122093700 +0000" stop="20261122100300 +0000" channel="KanEducational.il">
+    <desc lang="he">נתי מקבלת הצעת עבודה בצ'ילה ולוקחת איתה כמתורגמן את דודי. הילדים (וזעתר) נשארים לבד בבית, שוב, והפעם הם גם מתמודדים עם מטפלת קשוחה וקפדנית שההורים שכרו את שירותיה. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/Q2UmYbNV5SR6IcsVSyYnmBHQwjlQ9qXw-AVr86oS1BFFRwDrD1DNfC-lTisyF9lsLPo-2VMthkasjDm4M-c7vwYlfAfy0YoPP5BAvbU" />
+    <title lang="he">לבד בבית 3 - 1. צילה</title>
+  </programme>
+  <programme start="20261122100300 +0000" stop="20261122102700 +0000" channel="KanEducational.il">
+    <desc lang="he">אלינור מגיעה לביקור וצריכה להכיר מחדש את שלי. במקביל, האריות מחפשים את הדרך הנכונה לנצח את משחק הפלייאוף הראשון שלהם נגד הצ'יטות, ומיכאל חוזר לבלט ופוגש מישהי חדשה... כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/NAwV02tNuUXwb8RNrmurXnb24t4cWMhbAvMHpI2UA14oaUT5kf2sHx2CHQiI0zCvM4LVfnyKHSl0B485oF4BgsEC9cLNuMnINmTP4XE" />
+    <title lang="he">שלי הכובשת - 16. זאת אני</title>
+  </programme>
+  <programme start="20261122102700 +0000" stop="20261122105300 +0000" channel="KanEducational.il">
+    <desc lang="he">יום האחיות שגיתית כל כך נרגשת לחגוג עם עמליה, נופל בדיוק על יום בקיעת ציפורי הירגזי שעמליה מצפה לו. חן מחליט לעזוב את המחנה, אבל ירמי ונגה נחושים להוכיח לו שוולקנו זה הבית שלו.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/qpGzADZrP104SV1f8WKWU2B0pWW5pxMFnudmGKxVC4cEh1b9eREU_IHe-aUI6I_G7vj-39O-mqqCHhbaVQ8Gm4pwTsYBfLeUyjnN2KI" />
+    <title lang="he">בלוגה בלוז - 5. מישהו צריך אותך</title>
+  </programme>
+  <programme start="20261122105300 +0000" stop="20261122112200 +0000" channel="KanEducational.il">
+    <desc lang="he">החבורה כולה מתאחדת כדי לתכנן ולבצע מארב לשמואל מרדכי ולהבין מה הוא באמת רוצה מהם. אריאל והילדים מנסים לתכנן יום הולדת לטליה ומופתעים לגלות שהיא בכלל לא רוצה לחגוג. מיקה מגלה מה יהודה באמת מרגיש.כ' עב' ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/vSyBrgbxBJ7rI_WhxDA9QVHCoxhOvV1WcR8A0xhkQkDCYvLX0mrt1_yh3WWAiSmMgvQsF0aQT7fogX4Mbrg-7VfmZJ3aE-iGmJAHBLg" />
+    <title lang="he">בני מצווה 3 - 16. שמואל מרדכי חזר</title>
+  </programme>
+  <programme start="20261122112200 +0000" stop="20261122115000 +0000" channel="KanEducational.il">
+    <desc lang="he">לוקאס מסיק מסקנות לגבי עמליה ותולי והן מחליטות ללמד אותו לקח. ההורים של נור מגיעים לעזור לה לסדר את הדירה ומביאים עלי גפן לשכנים. כולם בטוחים שזו סמירה שהכינה אותם ולה לא נעים לתקן אותם.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/s63dUc3bw0gchhUhMv6-2YaedfvtR4giKzldKpUc4YtJq2DAmedmrvUeXIUWIHRlRA2k2bOYj2OjxNm9Os5y4ja_51hd-6ufDZjOmX8" />
+    <title lang="he">שכונת חיים 2 - קופצים למסקנות</title>
+  </programme>
+  <programme start="20261122115000 +0000" stop="20261122121800 +0000" channel="KanEducational.il">
+    <desc lang="he">ענבל וחזי עושים משלוחים יחד והיא קוראת לו בכינוי ילדותו שמסתבר שעד היום מעליב אותו. במקום להודות שהוא נעלב הוא מעליב אותה בחזרה. לתולי לא נעים להעליב את עמליה. ואדם עושה עצמו חולה ומסתבך.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/s63dUc3bw0gchhUhMv6-2YaedfvtR4giKzldKpUc4YtJq2DAmedmrvUeXIUWIHRlRA2k2bOYj2OjxNm9Os5y4ja_51hd-6ufDZjOmX8" />
+    <title lang="he">שכונת חיים 2 - למה לא אמרת?</title>
+  </programme>
+  <programme start="20261122121800 +0000" stop="20261122124000 +0000" channel="KanEducational.il">
+    <desc lang="he">גורי שצריך לשפוט מי צודק בריבים בין אורי לנאיה מחליט להיעזר בשיטת ה-VAR - לבדוק במצלמות מה באמת קרה. אורלי מצלמת סרטון לקמפיין שלה, אבל גזאלה חושב שהיא מדברת מוזר. מה יכולה להיות הסיבה? כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/KgnRKc0lwQr29ioX4y_eUHXZx8igjFkomFKJdUswa54k67CNGG0QCKeu3eiYxaFEVI3-EwqB6RdBmmvW-jK5GYzjmyah87ETIBTCQOg" />
+    <title lang="he">מלון הוטל 3 - 16. ואר משפחתי</title>
+  </programme>
+  <programme start="20261122124000 +0000" stop="20261122130400 +0000" channel="KanEducational.il">
+    <desc lang="he">אלינור מגיעה לביקור וצריכה להכיר מחדש את שלי. במקביל, האריות מחפשים את הדרך הנכונה לנצח את משחק הפלייאוף הראשון שלהם נגד הצ'יטות, ומיכאל חוזר לבלט ופוגש מישהי חדשה... כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/NAwV02tNuUXwb8RNrmurXnb24t4cWMhbAvMHpI2UA14oaUT5kf2sHx2CHQiI0zCvM4LVfnyKHSl0B485oF4BgsEC9cLNuMnINmTP4XE" />
+    <title lang="he">שלי הכובשת - 16. זאת אני</title>
+  </programme>
+  <programme start="20261122130400 +0000" stop="20261122133000 +0000" channel="KanEducational.il">
+    <desc lang="he">נתי מקבלת הצעת עבודה בצ'ילה ולוקחת איתה כמתורגמן את דודי. הילדים (וזעתר) נשארים לבד בבית, שוב, והפעם הם גם מתמודדים עם מטפלת קשוחה וקפדנית שההורים שכרו את שירותיה. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/Q2UmYbNV5SR6IcsVSyYnmBHQwjlQ9qXw-AVr86oS1BFFRwDrD1DNfC-lTisyF9lsLPo-2VMthkasjDm4M-c7vwYlfAfy0YoPP5BAvbU" />
+    <title lang="he">לבד בבית 3 - 1. צילה</title>
+  </programme>
+  <programme start="20261122133000 +0000" stop="20261122134100 +0000" channel="KanEducational.il">
+    <desc lang="he">היום הראשון של ג'ו בחטיבה משתבש עם מכנסיים קרועים ופחד שאיבד את החבר הכי טוב שלו. אחרי סדרת פדיחות, הוא מגלה שחבר חדש הוא לא איום - ואפשר להרוויח עוד חבר. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/N9X9jV4Od9tjZ0bqZNP_EOOxUx4lxM2Od9w__LLRi-nNSDOXJJ9BmrukKALMgowSlQTJaB2nw5lNlx4U1VmZn3fQJLT7AQRiXYFr0Lk" />
+    <title lang="he">חדש! דודו - 1. בית הספר הגדול</title>
+  </programme>
+  <programme start="20261122134100 +0000" stop="20261122135400 +0000" channel="KanEducational.il">
+    <desc lang="he">אתגר זריקת כדור של פריזבו משתבש לחלוטין כשהכדור פוגע במורה. ג'ו המבועת בטוח שסופו הגיע ומתכנן לברוח, אך כשהוא אוזר אומץ ומתנצל בפני המנהלת, הוא משתחרר באזהרה בלבד. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/N9X9jV4Od9tjZ0bqZNP_EOOxUx4lxM2Od9w__LLRi-nNSDOXJJ9BmrukKALMgowSlQTJaB2nw5lNlx4U1VmZn3fQJLT7AQRiXYFr0Lk" />
+    <title lang="he">חדש! דודו - 2. צרות צרורות</title>
+  </programme>
+  <programme start="20261122135400 +0000" stop="20261122142300 +0000" channel="KanEducational.il">
+    <desc lang="he">החבורה כולה מתאחדת כדי לתכנן ולבצע מארב לשמואל מרדכי ולהבין מה הוא באמת רוצה מהם. אריאל והילדים מנסים לתכנן יום הולדת לטליה ומופתעים לגלות שהיא בכלל לא רוצה לחגוג. מיקה מגלה מה יהודה באמת מרגיש.כ' עב' ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/vSyBrgbxBJ7rI_WhxDA9QVHCoxhOvV1WcR8A0xhkQkDCYvLX0mrt1_yh3WWAiSmMgvQsF0aQT7fogX4Mbrg-7VfmZJ3aE-iGmJAHBLg" />
+    <title lang="he">בני מצווה 3 - 16. שמואל מרדכי חזר</title>
+  </programme>
+  <programme start="20261122142300 +0000" stop="20261122145000 +0000" channel="KanEducational.il">
+    <desc lang="he">עמליה מבינה איך זה נראים כשמאוהבים ובטוחה שהיא עצמה מאוהבת ברועי ושזה הולך להרוס את החברות שלהם. יהודה מנסה להפתיע את ענבל ליומולדת אחרי שהוא מבין שהוא היחיד שלא קנה לה מתנה.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/s63dUc3bw0gchhUhMv6-2YaedfvtR4giKzldKpUc4YtJq2DAmedmrvUeXIUWIHRlRA2k2bOYj2OjxNm9Os5y4ja_51hd-6ufDZjOmX8" />
+    <title lang="he">שכונת חיים 2 - אוהבת לא אוהבת</title>
+  </programme>
+  <programme start="20261122145000 +0000" stop="20261122151800 +0000" channel="KanEducational.il">
+    <desc lang="he">חשדות המשטרה הולכים ונסגרים סביב יעקב, ונגה ויוני ממשיכים לחקור כדי לגלות את זהות הגנב ולהוכיח את חפותו. יחד עם וואסים הם מצליחים לגלות את דפוס הגניבות מהגן. אוריה מקבל הצעה להתחלה חדשה ורחוקה.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/6GB-YSfy3rr9UdRtFCy9ejHKC6yaLj4tNqNd7UxTWIAlujuO2sbdf5bzwjDIg6ruw7A6Fv7--_GFvX_uygrPyd1JXdxzySikoABlyZU" />
+    <title lang="he">המתחם ה-25 - 16. התחלה חדשה</title>
+  </programme>
+  <programme start="20261122151800 +0000" stop="20261122154300 +0000" channel="KanEducational.il">
+    <desc lang="he">הכל מתחיל בלוח שחמט שנמצא בחדר הישיבות ובעקבותיו שלי הופכת למפלצת נצחונות והחברה מאבדת את אחד הלקוחות החשובים שלה.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/ydCROSXSqCYmDXi9Bi_uaviS7AMGPeu20iNOEz5p7XNIjv5Jt1BrOKlqD6OuL-cOeslD8mURX_bDff9V4x43-yKy7R-tZrjzJHCDzfM" />
+    <title lang="he">מי פה הבוס? - 6. ההפסד של שלי</title>
+  </programme>
+  <programme start="20261122154300 +0000" stop="20261122160600 +0000" channel="KanEducational.il">
+    <desc lang="he">נאיה ממציאה רובוט ומכריחה את אורי לבלות איתו זמן כדי שהוא ילמד איך אנשים נחמדים שהם לא נאיה, מתנהגים. סטפן משיק מועדון פיצוח גרעינים מפונפן בניסיון לחזור להיות מקובל בקרב עשירי נהריה. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/KgnRKc0lwQr29ioX4y_eUHXZx8igjFkomFKJdUswa54k67CNGG0QCKeu3eiYxaFEVI3-EwqB6RdBmmvW-jK5GYzjmyah87ETIBTCQOg" />
+    <title lang="he">מלון הוטל 3 - 6. מועדון הגרעינים השחורים</title>
+  </programme>
+  <programme start="20261122160600 +0000" stop="20261122163000 +0000" channel="KanEducational.il">
+    <desc lang="he">אלינור מגיעה לביקור וצריכה להכיר מחדש את שלי. במקביל, האריות מחפשים את הדרך הנכונה לנצח את משחק הפלייאוף הראשון שלהם נגד הצ'יטות, ומיכאל חוזר לבלט ופוגש מישהי חדשה... כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/NAwV02tNuUXwb8RNrmurXnb24t4cWMhbAvMHpI2UA14oaUT5kf2sHx2CHQiI0zCvM4LVfnyKHSl0B485oF4BgsEC9cLNuMnINmTP4XE" />
+    <title lang="he">שלי הכובשת - 16. זאת אני</title>
+  </programme>
+  <programme start="20261122163000 +0000" stop="20261122165300 +0000" channel="KanEducational.il">
+    <desc lang="he">רון וגאיה מתגעגעים לנווה עלומים. וכשגאיה חווה התקפי שירה וריקוד משונים, רון חושד שגאיה עדיין מחוברת לדמות בסדרה. לכן הם חוזרים לעולם הסדרה דרך הטלוויזיה הישנה של רון אבל נוחתים בתוך עולם שהשתנה.כ' עב' ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/uO-TpKuMQuNkyIE5UpZN3t3kSEs-zFk8xxrizNV3xfMXSpK5km4qbA6bmXLhgOBcR4-32KTenY9tXoDyoBTRlFBcdMZ4GQr7Rkp2wYc" />
+    <title lang="he">הסדרתיים 2 - 1. קניוניסטה</title>
+  </programme>
+  <programme start="20261122165300 +0000" stop="20261122172000 +0000" channel="KanEducational.il">
+    <desc lang="he">ניב נלחץ ממבחן גורלי במתמטיקה, ורון מגלה ששי-לי, האקסית שלו, היא חלק מה''אחרים'': תלמידי מגמת מכונאות רכב. אסון מחריד מכה בטקס פתיחת המגמה החדשה, אסון שישפיע על כולם ובמיוחד על גולדפיש.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/uO-TpKuMQuNkyIE5UpZN3t3kSEs-zFk8xxrizNV3xfMXSpK5km4qbA6bmXLhgOBcR4-32KTenY9tXoDyoBTRlFBcdMZ4GQr7Rkp2wYc" />
+    <title lang="he">הסדרתיים 2 - 2. רומיאו ויוליה</title>
+  </programme>
+  <programme start="20261122172000 +0000" stop="20261122174000 +0000" channel="KanEducational.il">
+    <desc lang="he">בפעם הראשונה בהיסטוריה נר מאבד את המקום הראשון בנוקנוק, ואלכס לא מצליח לגלות את הפיתרון לחידה שתומר פותרת בקלות, וכל אחד מהם מנסה להתמודד עם המשבר. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/WQnlp-0ADI-rMd3LAifHk2cpyZCk692wveQyN_z5JKjDl6VmwDYZ2-LA4nQFSLh9KYc-GYOqEpfU25FJwstvNwqJ31xh78UIY7skftk" />
+    <title lang="he">סטודיו אמציה - רק אנימציה 2 - 11. חיים ב</title>
+  </programme>
+  <programme start="20261122174000 +0000" stop="20261122180800 +0000" channel="KanEducational.il">
+    <desc lang="he">חשדות המשטרה הולכים ונסגרים סביב יעקב, ונגה ויוני ממשיכים לחקור כדי לגלות את זהות הגנב ולהוכיח את חפותו. יחד עם וואסים הם מצליחים לגלות את דפוס הגניבות מהגן. אוריה מקבל הצעה להתחלה חדשה ורחוקה.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/6GB-YSfy3rr9UdRtFCy9ejHKC6yaLj4tNqNd7UxTWIAlujuO2sbdf5bzwjDIg6ruw7A6Fv7--_GFvX_uygrPyd1JXdxzySikoABlyZU" />
+    <title lang="he">המתחם ה-25 - 16. התחלה חדשה</title>
+  </programme>
+  <programme start="20261122180800 +0000" stop="20261122183300 +0000" channel="KanEducational.il">
+    <desc lang="he">ילדי שמנת ונערים בסיכון מוצאים את עצמם באותה סירה. פרק 6:המדריך לנערה מהרצליה פיתוח. יהלי מזמינה את הבנות לים וכל אחת מתמודדת עם שדים משלה. בעז והילה מתקרבים. האם אחד מהם מספיק אמיץ לעשות את הצעד?כ עב ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/51yhODEFulhUJQ089iO6lpo7ZGDxNfqUF_07wJt-fF5k2w1hYe4AnB4JLgkqo9Ig7rCxsJGtwRtUbZbKqLA80Ga8E0kNOTBMe0rVFOg" />
+    <title lang="he">עמוק במים - פרק 6</title>
+  </programme>
+  <programme start="20261122183300 +0000" stop="20261122190300 +0000" channel="KanEducational.il">
+    <desc lang="he">נורי מעכלת את המידע שלמדה על אביה וכבר מתכוננת לקראת חיי המשפחה החדשים שלה. אבל מה זה אומר לגבי המשפחה של סופי? חזית חדשה נפתחת במלחמה על טיסת המגמות למילאנו ועומר נסחף לסיפור אהבה חדש-ישן.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/je7HBV3DzsugsGuec1VO9NqwLsvvoarSOQqLfQ6zcSYLGX_6EHoTiLO9vu4PuDniIDYRXPJrN38RBETiYBlLPE2O-yMrbveDURCzRVY" />
+    <title lang="he">מקיף מילאנו 2 - 11. כוונות טובות</title>
+  </programme>
+  <programme start="20261122190300 +0000" stop="20261122193000 +0000" channel="KanEducational.il">
+    <desc lang="he">יולי כועסת שנועה מתערבת ביחסיה עם ירדן. שיר ומיכאל מתבאסים שהמערכונים שלהם הופכים לפרסומות של Xטרה. מאיה עוזרת לעילי להרוויח כסף.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/j1QsI0cwufz_zR8NC8mvx2jYEwqGSBHBorpzBNAdjzbIaUjAEGcy5fIPewCutwrbv9tC6rVIdwk2JOn2YnLIrIp8glw5Cd_k9XADWhQ" />
+    <title lang="he">מיוחדת - 16. לא מפסיק לחשוב עלייך</title>
+  </programme>
+  <programme start="20261122193000 +0000" stop="20261122195500 +0000" channel="KanEducational.il">
+    <desc lang="he">רון וגאיה מגלים שהפחיות שמגיעות מהעולם האמיתי גורמות לשיבושים קשים, מה שמוביל את רון לנסות להעביר מידע סודי למהדורת החדשות של סתיו. האחרים מתחרים בתחרות יזמות מה שעלול להרוס את נווה עלומים. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/uO-TpKuMQuNkyIE5UpZN3t3kSEs-zFk8xxrizNV3xfMXSpK5km4qbA6bmXLhgOBcR4-32KTenY9tXoDyoBTRlFBcdMZ4GQr7Rkp2wYc" />
+    <title lang="he">הסדרתיים 2 - 11. מקיף ריקוטה</title>
+  </programme>
+  <programme start="20261122195500 +0000" stop="20261122202000 +0000" channel="KanEducational.il">
+    <desc lang="he">בעוד ששיסל עומד בפני סכנה חמורה ומיידית, זהבה חוזרת לפעולה ומנסה להשתמש ב''דילמת האסיר'' כדי לגרום לגלוך וברדה להישבר ולהתוודות על קשר השוחד שלהם עם חברת בליץ. כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/uO-TpKuMQuNkyIE5UpZN3t3kSEs-zFk8xxrizNV3xfMXSpK5km4qbA6bmXLhgOBcR4-32KTenY9tXoDyoBTRlFBcdMZ4GQr7Rkp2wYc" />
+    <title lang="he">הסדרתיים 2 - 12. דילמת האסיר</title>
+  </programme>
+  <programme start="20261122202000 +0000" stop="20261122204300 +0000" channel="KanEducational.il">
+    <desc lang="he">גורי שצריך לשפוט מי צודק בריבים בין אורי לנאיה מחליט להיעזר בשיטת ה-VAR - לבדוק במצלמות מה באמת קרה. אורלי מצלמת סרטון לקמפיין שלה, אבל גזאלה חושב שהיא מדברת מוזר. מה יכולה להיות הסיבה? כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/KgnRKc0lwQr29ioX4y_eUHXZx8igjFkomFKJdUswa54k67CNGG0QCKeu3eiYxaFEVI3-EwqB6RdBmmvW-jK5GYzjmyah87ETIBTCQOg" />
+    <title lang="he">מלון הוטל 3 - 16. ואר משפחתי</title>
+  </programme>
+  <programme start="20261122204300 +0000" stop="20261122210000 +0000" channel="KanEducational.il">
+    <desc lang="he">ילדים שחיים בפנימיות עונים על שאלות שלא העזתם לשאול אף פעם, כמו: האם הם ניסו לברוח, האם יש להם הרבה חוקים בפנימיה והאם הם מתגעגעים הביתה. כ' עב. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/0w5tMtKqDL-R4cOUE1sMpOCNeZX9e7oAU3J9KiZLaZlsDONFNB3IIvCn1asNLm_S9aF2DbEdRkgubKQQ5YBKRfH3xx1XDGoivEBLIYw" />
+    <title lang="he">סליחה על השאלה ילדים 2 - ילדים בפנימיות</title>
+  </programme>
+  <programme start="20261122210000 +0000" stop="20261122212500 +0000" channel="KanEducational.il">
+    <desc lang="he">ילדי שמנת ונערים בסיכון מוצאים את עצמם באותה סירה. פרק 6:המדריך לנערה מהרצליה פיתוח. יהלי מזמינה את הבנות לים וכל אחת מתמודדת עם שדים משלה. בעז והילה מתקרבים. האם אחד מהם מספיק אמיץ לעשות את הצעד?כ עב ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/51yhODEFulhUJQ089iO6lpo7ZGDxNfqUF_07wJt-fF5k2w1hYe4AnB4JLgkqo9Ig7rCxsJGtwRtUbZbKqLA80Ga8E0kNOTBMe0rVFOg" />
+    <title lang="he">עמוק במים - פרק 6</title>
+  </programme>
+  <programme start="20261122212500 +0000" stop="20261122215500 +0000" channel="KanEducational.il">
+    <desc lang="he">נורי מעכלת את המידע שלמדה על אביה וכבר מתכוננת לקראת חיי המשפחה החדשים שלה. אבל מה זה אומר לגבי המשפחה של סופי? חזית חדשה נפתחת במלחמה על טיסת המגמות למילאנו ועומר נסחף לסיפור אהבה חדש-ישן.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/je7HBV3DzsugsGuec1VO9NqwLsvvoarSOQqLfQ6zcSYLGX_6EHoTiLO9vu4PuDniIDYRXPJrN38RBETiYBlLPE2O-yMrbveDURCzRVY" />
+    <title lang="he">מקיף מילאנו 2 - 11. כוונות טובות</title>
+  </programme>
+  <programme start="20261122215500 +0000" stop="20261122222200 +0000" channel="KanEducational.il">
+    <desc lang="he">יולי כועסת שנועה מתערבת ביחסיה עם ירדן. שיר ומיכאל מתבאסים שהמערכונים שלהם הופכים לפרסומות של Xטרה. מאיה עוזרת לעילי להרוויח כסף.כ' עב'. ש.ח.</desc>
+    <icon src="https://iptv-epg.org/images/j1QsI0cwufz_zR8NC8mvx2jYEwqGSBHBorpzBNAdjzbIaUjAEGcy5fIPewCutwrbv9tC6rVIdwk2JOn2YnLIrIp8glw5Cd_k9XADWhQ" />
+    <title lang="he">מיוחדת - 16. לא מפסיק לחשוב עלייך</title>
   </programme>
 </tv>
