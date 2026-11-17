@@ -74,7 +74,9 @@ def playlist() -> None:
     educational_id = "KanEducational.il"
     blocks[educational_id] = [
         '#EXTINF:-1 tvg-id="KanEducational.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png" group-title="Israel",Kan Educational',
-        "https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8",
+        '#EXTVLCOPT:http-referrer=https://www.kankids.org.il/',
+        '#EXTVLCOPT:http-user-agent=Mozilla/5.0',
+        "https://kan23.media.kan.org.il/hls/live/2024691-b/2024691/source1_4k/chunklist.m3u8",
     ]
     missing = set(CHANNELS) - set(blocks)
     if missing:
