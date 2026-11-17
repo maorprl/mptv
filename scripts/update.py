@@ -11,6 +11,11 @@ ROOT = Path(__file__).resolve().parents[1]
 M3U_URL = "https://iptv-org.github.io/iptv/countries/il.m3u"
 EPG_URL = "https://iptv-epg.org/files/epg-il.xml"
 EPG_PUBLIC = "https://raw.githubusercontent.com/maorprl/mptv/main/epg.xml"
+# Explicit stream overrides; do not revert to third-party feeds on daily refresh.
+STREAM_OVERRIDES = {
+    "Keshet12.il": "https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8",
+    "Channel13.il": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+}
 CHANNELS = {
     "Kan11.il": ("Kan 11", "Kan11.il"),
     "Keshet12.il": ("Keshet 12", "Keshet12.il"),
@@ -56,7 +61,12 @@ def playlist() -> None:
             metadata = re.sub(r'tvg-id="[^"]+"', f'tvg-id="{channel_id}"', block[0])
             metadata = re.sub(r'group-title="[^"]*"', 'group-title="Israel"', metadata)
             metadata = metadata.rsplit(",", 1)[0] + "," + name
-            blocks[key] = [metadata, *block[1:]]
+            if key in STREAM_OVERRIDES:
+                # Remove old stream and user-agent options; use the replacement only.
+                metadata = re.sub(r' http-user-agent="[^"]*"', "", metadata)
+                blocks[key] = [metadata, STREAM_OVERRIDES[key]]
+            else:
+                blocks[key] = [metadata, *block[1:]]
     missing = set(CHANNELS) - set(blocks)
     if missing:
         raise ValueError(f"Missing channels in upstream playlist: {sorted(missing)}")
