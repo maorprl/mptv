@@ -16,46 +16,6 @@
     <display-name>IL - ערוץ 23 חינוכית</display-name>
     <icon src="https://iptv-epg.org/images/IxUvFJu9ny6kb5n_2nPdTSFLzXyTop67je98b1O78qesvxpaV6qrZDg7qOOeZVIGFvRmukJrEgD_E-jwV9T4pyvEe3OFHDAJ1bIDZ06acBrrYaOvCZv1FBr2nLmhAopJH0BXo2JNebVPOidtJjvjjIE2kXgWvVZAHYmjDP1l4apkVOsLv88QOlwyF2_v" />
   </channel>
-  <programme start="20261116100000 +0000" stop="20261116100500 +0000" channel="Kan11.il">
-    <desc lang="he">מבזק חדשות. כ' סמ'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/wEvOzf8oGVWgwkWoaOjYPz7yHdvdG32YIC-6dAok_jhM8YUBokOdoo_HBiFbmkebFOUxID4vPHl_cK8cEcrRO43Co-uooVNqd4vuUUk" />
-    <title lang="he">מבזק חדשות</title>
-  </programme>
-  <programme start="20261116100500 +0000" stop="20261116104000 +0000" channel="Kan11.il">
-    <desc lang="he">קומיקאים ואנשי ספר נאבקים על המלצת הקריאה המושלמת. בלי רחמים. והפעם רון קופמן, גורי אלפי, שיר ראובן, דן אריאלי, הילה קורח ויובל פלוטקין ממליצים לפונדקאית ולשחקנית פוקר תחרותית. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/qI9AIWGgiDW-QOengACkcCecjX1DpBf9pwFrKkqqjZjL4qK6oOB0OTZhkE3JNfHTFPHQOi1A4vOCChgua5XpEQuHsNOL9PBtXEOl2mU" />
-    <title lang="he">אתה חייב לקרוא את זה! - פרק 10</title>
-  </programme>
-  <programme start="20261116104000 +0000" stop="20261116113500 +0000" channel="Kan11.il">
-    <desc lang="he">דרמה תקופתית ספרדית. פרק 71: אחרי הווידוי של חסוס, גורלו נתון בידי אביו. בינתיים, אנדרס מחפש הזדמנות לדבר עם בגוניה. כ' עב'.</desc>
-    <icon src="https://iptv-epg.org/images/PYK1nNjvJzS4Ywx6OuMnnMJNhM5l9-U8zgfhisqoluGzeQT8-7eSjm2Gsdk4DVnVbD_p_q7ZBlEY3U-F9EbGNwA2heB8BI0aNiwInPQ" />
-    <title lang="he">חלום החופש - פרק 71</title>
-  </programme>
-  <programme start="20261116113500 +0000" stop="20261116123000 +0000" channel="Kan11.il">
-    <desc lang="he">תשעה עשר מתמודדים נותרו בזירה, כאשר אירוע הגמר הולך ומתקרב. ויקטוריה, שיר ומעיין ינסו לשמור על השליטה הנשית בזירה כאשר קו הסיום קרוב מתמיד בדרך לזכייה ברבע מיליון שקלים. מנחה: רשף לוי. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/MFxZYDZslUzDd9IG2XRmuE7caGNr_baSg12_vcEP8Etl07dO6skG14xNnejGVAeJuwtJrTR6VBGPKZysW25wSvRbmxfVmPFlxZLOeJ4" />
-    <title lang="he">הזירה 2 - פרק 6</title>
-  </programme>
-  <programme start="20261116123000 +0000" stop="20261116130000 +0000" channel="Kan11.il">
-    <desc lang="he">זה היום השני לתחרות הבישול והאירוח באזור ירושלים, והמארח הוא אדם מנווה דניאל. הערב נגלה מה כל כך מפתיע בעמוד האינסטגרם של ניקול, ואיזה ניתוח עשה רועי? כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/B_rkrr22LbFXmXiSG2Wh83qFur4o5AnDWaVblfh5v4C-qabAEsSVBeKzL-uPbcm9-SWKtguUcMB321fcA2lUodVeKEjL-fGYqwM2S98" />
-    <title lang="he">בואו לאכול איתי 10 - שבוע ירושלים 2</title>
-  </programme>
-  <programme start="20261116130000 +0000" stop="20261116150000 +0000" channel="Kan11.il">
-    <desc lang="he">מגזין אקטואליה יומי. יפעת גליק ותמר אלמוג עם כותרות החדשות, ראיונות עומק, אנשי השעה, והרגעים האנושיים שמרכיבים את המציאות הישראלית. כ' סמ'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/JjOT3h6N7CDHwo-AxfjRGGsjFOAO1p7SZoowT3indksKaRyIPLSFV7BifIH9t4voJDKCW1ZRvxUS30XnZmmhZxHWX6lFm44v-7F6J00" />
-    <title lang="he">גליק ותמר</title>
-  </programme>
-  <programme start="20261116150000 +0000" stop="20261116155500 +0000" channel="Kan11.il">
-    <desc lang="he">יומן חדשות החוץ שלוקח אתכם למסע יומי חוצה יבשות. דסק החוץ של כאן חדשות מביא למסך שלכם את כל מה שצריך לדעת כדי להבין טוב יותר את העולם סביבנו. כ' סמ'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/kiD7GJzTacEPXLruZ-g8ebsTkUSWzyo-Ef7JHbRA2gQRz7UpkCAcvoE9-z3qEc-rsdrjOQAX-XK2O5om9bBNCLBl_e9fpBQiw_F43ezH" />
-    <title lang="he">העולם היום - עם יואב זהבי</title>
-  </programme>
-  <programme start="20261116155500 +0000" stop="20261116170000 +0000" channel="Kan11.il">
-    <desc lang="he">מהדורת סיכום חדשות היום עם עדכונים שוטפים, כותרות וניתוחי עומק של האירועים האקטואליים המרכזיים בארץ ובעולם. כ' סמ'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/rL7X7oDnDO3_Ko2G22T7pN0HP8eE3TzCluaP0zS0jQQcNvL3ik6XrgqYMWNMHIzZpCV_V6xSvc83m8YrK3f4o3QBSSbvnQlH-re2IMw" />
-    <title lang="he">כאן בשש - עם מאיה ראכלין</title>
-  </programme>
   <programme start="20261116170000 +0000" stop="20261116171500 +0000" channel="Kan11.il">
     <desc lang="he">אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית. כ' סמ'. שידור חי.</desc>
     <icon src="https://iptv-epg.org/images/BrkPoO09MlG1HL6b0rpzCWMFdzdn8sxyKjwLgyD8uQkvC9A5sNk7aB5SMzvbev6RznykQY81QcB42bHqzFdKN-VcnptBi5DDQcsaOgw" />
@@ -966,36 +926,6 @@
     <icon src="https://iptv-epg.org/images/lPF0r4qVla0OKuKiHsTMoNtabcfJ653q-yaEgdCq-Y_aG324M2_dAIYXFy8JYCZV9yTBuPrVWgN4chVD7wSDzG9YpvagWw1UsW7-c50" />
     <title lang="he">דרעי - פרק הבכורה: המטאור</title>
   </programme>
-  <programme start="20261116094500 +0000" stop="20261116110000 +0000" channel="Keshet12.il">
-    <desc lang="he">זה לא קרה עד עכשיו ב''הזמר במסכה'', לא בארץ ולא בעולם - מסכה חדשה נכנסת באמצע העונה ויכולה להפוך את הכול! תתכוננו להפתעות. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/XHAfBFSWSb6cRgjSkKSPjSOfp55knsAVCMJ5D-34lpO4e2Ps7ytSXPuckawH07kxGJkFG5Vwc4HPDbDBQqKZ8ozQIKwxA0vj34aLpr4" />
-    <title lang="he">הזמר במסכה - המסכה החדשה מגיעה</title>
-  </programme>
-  <programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="Keshet12.il">
-    <desc lang="he">רוזן. בפסק הדין נקבע שלירי אשמה ואף אחד מהמשפחה לא היה שם לתמוך. וגם: כולם מלווים את ריקי שהתקבלה למאסטר שף. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/TdJLSrY5XvU8OYs70ZEuix48a5ufbs9A8OCoaqz0PA5-iecyLqZAeFWKdj468LshHH1LD2SsqvuHx1eUDxG_-c3ql71t9XDSQNHLHEA" />
-    <title lang="he">סברי מרנן 5 - מאסטר שפית</title>
-  </programme>
-  <programme start="20261116113000 +0000" stop="20261116130000 +0000" channel="Keshet12.il">
-    <desc lang="he">משדר חדשות מיוחד. כ' סמ'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/JRrmr7D4uXHi9bNjuIqXZD2b81MfaRqIsBy1XA2segdl6ZQu9Qd7f_LHZi7hSZFO-gDlEtHCjZKipWAtRbsn8VAf1eiwTM77AJP40ig" />
-    <title lang="he">12 בצוהריים</title>
-  </programme>
-  <programme start="20261116130000 +0000" stop="20261116145500 +0000" channel="Keshet12.il">
-    <desc lang="he">בהגשת עמליה דואק. הכותרות הראשיות, הפאנלים המובילים עם הפרשנים, הפוליטיקאים והמומחים בכל יום בשלוש. כ' סמ'/עב'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/mSYIWOJR7ps829dePBf2qQXFGp4KiqMyPE6NRiCkizu5dqtrl1cGPK0qk2NAi9E4XV10w7P8O85Cuv9mSOH9416k51WoUnapbWtFOCU" />
-    <title lang="he">מהדורת היום - עם עמליה דואק</title>
-  </programme>
-  <programme start="20261116145500 +0000" stop="20261116155500 +0000" channel="Keshet12.il">
-    <desc lang="he">משדר חדשות מיוחד עם ירון אברהם. כ' סמ'/עב'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/h1Tvwgj1cOjLGU3bkBtLdmBPlU9rRVVo37Zs-B0LQa8SNDpiVdWVGsuEWXR9J35oAYyBDbwqyApkEZIYNuACi90oh1G120nlmmdShZQ" />
-    <title lang="he">חמש עם - ירון אברהם</title>
-  </programme>
-  <programme start="20261116155500 +0000" stop="20261116170000 +0000" channel="Keshet12.il">
-    <desc lang="he">משדר חדשות מיוחד עם עודד בן עמי. כ' סמ'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/lZNZkOYbw_fqtNRIoixb3YJXmfELSUORTk-PBdu3YV_j4j8NMo4Torm6HWyBWFXvgWhj5KoBKt2XKDQW6YywNMaD3rQdTQEILYS5M-k" />
-    <title lang="he">שש עם...</title>
-  </programme>
   <programme start="20261116170000 +0000" stop="20261116175000 +0000" channel="Keshet12.il">
     <desc lang="he">קרן מרציאנו עם כל ההתפתחויות הכי חשובות של היום. בהשתתפות פאנל הפרשנים, בן כספית ועמית סגל. כ' סמ'. שס''י. שידור חי.</desc>
     <icon src="https://iptv-epg.org/images/7vibku9LrtnvgSDX_Uz3cs1wFdXmisTM4sulSw4DIDMq5qIbFWaquwXlnsXsxuWXeRlNBNeOZIGxiV6GUoA5BEqBbmD4oISMDmsvxvI" />
@@ -1655,71 +1585,6 @@
     <desc lang="he">אופירה אוחנה סרי עם האורחים והסיפורים המעניינים, השאלות הקשות והרגעים הלא צפויים. כ' עב'. ש.ח.</desc>
     <icon src="https://iptv-epg.org/images/42MtXiCwI3HxfGr9JS7u5-h1cxCJrfAfZUbDh_Gfe-eg55X7prU1XDU83pjETIneL9eJN2FF97fD5WS88ucQ0wQW2afAuoFY-CIbZhc" />
     <title lang="he">אופירה אוחנה סרי</title>
-  </programme>
-  <programme start="20261116080500 +0000" stop="20261116090000 +0000" channel="Channel13.il">
-    <desc lang="he">תכנית המגזין של רשת 13. מדי בוקר מתארחים באולפן מומחים בתחום הבריאות, התזונה, המשפחה, ואורח החיים לצד אנשי תרבות, שפים ומובילי דעת קהל. הקפה - עלינו! כ' סמ'. ת.פ. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/rYnQc9zpB2tZmCe2Phy8zvY_c38IWWBLEGWfUsrybCywN0bOh0ldyqhCnejCT-qkiEVxMhozmZeFOFTsnfncXlIbEnQq5yLr_y7HIBQ" />
-    <title lang="he">פותחים יום - ירדן ואלעד</title>
-  </programme>
-  <programme start="20261116090000 +0000" stop="20261116090500 +0000" channel="Channel13.il">
-    <desc lang="he">מבזק חדשות ערוץ 13. כ' סמ'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/-AARKOUHYbecsuQ7nqj_sLA14nbdyZAoHNxHOb483gnrHyS6VhaeO3UlxVoSX680YvZwwJ-MjUVetuW-htCr7mClWFYofC8q88M1tmA" />
-    <title lang="he">מבזק חדשות</title>
-  </programme>
-  <programme start="20261116090500 +0000" stop="20261116100000 +0000" channel="Channel13.il">
-    <desc lang="he">תכנית המגזין של רשת 13. מדי בוקר מתארחים באולפן מומחים בתחום הבריאות, התזונה, המשפחה, ואורח החיים לצד אנשי תרבות, שפים ומובילי דעת קהל. הקפה - עלינו! כ' סמ'. ת.פ. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/rYnQc9zpB2tZmCe2Phy8zvY_c38IWWBLEGWfUsrybCywN0bOh0ldyqhCnejCT-qkiEVxMhozmZeFOFTsnfncXlIbEnQq5yLr_y7HIBQ" />
-    <title lang="he">פותחים יום - ירדן ואלעד</title>
-  </programme>
-  <programme start="20261116100000 +0000" stop="20261116100500 +0000" channel="Channel13.il">
-    <desc lang="he">מבזק חדשות ערוץ 13. כ' סמ'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/-AARKOUHYbecsuQ7nqj_sLA14nbdyZAoHNxHOb483gnrHyS6VhaeO3UlxVoSX680YvZwwJ-MjUVetuW-htCr7mClWFYofC8q88M1tmA" />
-    <title lang="he">מבזק חדשות</title>
-  </programme>
-  <programme start="20261116100500 +0000" stop="20261116104000 +0000" channel="Channel13.il">
-    <desc lang="he">תכנית אקטואליה שבועית העוסקת בכל מה שחדש וחשוב לדעת בתחום המשפט, והכל בגובה העיניים. מנחה: דורון הרמן. כ' עב'. ת.פ.</desc>
-    <icon src="https://iptv-epg.org/images/bjzdQco7gROj16nMBajZPdkjxrXNyaKjBjfN8lTTBwOriZcuTaDZivBx6-lopUjw4PgzfC01Z2NpYbM0cus5wDAqrXvSfpNMA6m6OD8" />
-    <title lang="he">המצעד המשפטי</title>
-  </programme>
-  <programme start="20261116104300 +0000" stop="20261116110000 +0000" channel="Channel13.il">
-    <desc lang="he">המאבק בין שי חי ושילה מתלהט לגבהים חדשים! ולקראת ההדחה, עמנואל יוצאת לקרב חייה מול גל תמם! מי יהיה המודח הבא? ת.פ. כ' עב' ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/VS_ZNL39HPl4MaEg4WUpq3AMDUPoy2yq_WVLGDkve51PkD1TRv2a8Qseirn1Giw2TEfRDeWz9B44Vy33aweX3GZkAtd-ZSPAxKg1T_I" />
-    <title lang="he">הישרדות - פרק הדחה!</title>
-  </programme>
-  <programme start="20261116110000 +0000" stop="20261116110500 +0000" channel="Channel13.il">
-    <desc lang="he">מבזק חדשות ערוץ 13. כ' סמ'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/-AARKOUHYbecsuQ7nqj_sLA14nbdyZAoHNxHOb483gnrHyS6VhaeO3UlxVoSX680YvZwwJ-MjUVetuW-htCr7mClWFYofC8q88M1tmA" />
-    <title lang="he">מבזק חדשות</title>
-  </programme>
-  <programme start="20261116110500 +0000" stop="20261116120000 +0000" channel="Channel13.il">
-    <desc lang="he">המאבק בין שי חי ושילה מתלהט לגבהים חדשים! ולקראת ההדחה, עמנואל יוצאת לקרב חייה מול גל תמם! מי יהיה המודח הבא? ת.פ. כ' עב' ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/VS_ZNL39HPl4MaEg4WUpq3AMDUPoy2yq_WVLGDkve51PkD1TRv2a8Qseirn1Giw2TEfRDeWz9B44Vy33aweX3GZkAtd-ZSPAxKg1T_I" />
-    <title lang="he">הישרדות - פרק הדחה!</title>
-  </programme>
-  <programme start="20261116120000 +0000" stop="20261116120500 +0000" channel="Channel13.il">
-    <desc lang="he">מבזק חדשות ערוץ 13. כ' סמ'. שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/-AARKOUHYbecsuQ7nqj_sLA14nbdyZAoHNxHOb483gnrHyS6VhaeO3UlxVoSX680YvZwwJ-MjUVetuW-htCr7mClWFYofC8q88M1tmA" />
-    <title lang="he">מבזק חדשות</title>
-  </programme>
-  <programme start="20261116120500 +0000" stop="20261116130000 +0000" channel="Channel13.il">
-    <desc lang="he">מגזין תרבות יומי שמעלה למסך את כל הסיפורים המדוברים, נושאי השיחה החמים והידיעות המרעישות ביותר! בהנחיית קובי מחט. כ' סמ', ת.פ שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/yqQRZHNdWksaAG_DUEhZP44TofiKERPI0ZjM8aMJHaaUPASUJm5iOz_0rxKJevIkNii1fpPEh3AcPHH9XyiW87mrZ4szPTWHoys10UM" />
-    <title lang="he">הדו''ח היומי</title>
-  </programme>
-  <programme start="20261116130000 +0000" stop="20261116145500 +0000" channel="Channel13.il">
-    <desc lang="he">תוכנית אקטואליה יומית עם כל החדשות מהארץ והעולם לצד פאנל וכתבי ופרשני ''חדשות 13''. כ' סמ' שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/37OQaJzW0CWi-fTWXnDg7lSuSxTMxiryKfjM2zqi-vRz6ABx0o5K_1loJVcTU3IrT7vQTjhghA1NlbWcoxbCxz088_VKoaGut962PM4" />
-    <title lang="he">חדשות היום</title>
-  </programme>
-  <programme start="20261116145500 +0000" stop="20261116155500 +0000" channel="Channel13.il">
-    <desc lang="he">לוסי אהריש חוזרת לחדשות 13 עם תוכנית אקטואליה יומית ומעמיקה בנושאים שחייבים לדבר עליהם. ''שיחת היום'' מייצרת סדר יום חדש וחברתי עם דגש על קידום שיח בין הקבוצות השונות החברה הישראלית. כ' סמ' שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/8WBz8z_H_vCgXoA7WJGd0oucwig1WQy1pUkMOlCnmQhAlPWUEMpH-d39GEF3mM7rSjmApZrWt9Hapmt4UY29ahubM_cVLEeJAgGqdTY" />
-    <title lang="he">שיחת היום - עם לוסי אהריש</title>
-  </programme>
-  <programme start="20261116155500 +0000" stop="20261116165900 +0000" channel="Channel13.il">
-    <desc lang="he">הצמד הטלוויזיוני החדש מוריה אסרף ואייל ברקוביץ מדברים בלי הנחות על הנושאים החמים והחשובים שעל סדר היום. כ' סמ' שידור חי.</desc>
-    <icon src="https://iptv-epg.org/images/zU_lWYS2dqoq6zglb4m1Zf08StIlwhyjOroUqBcWyDinXm578Mp0--hE5O8H6pipstPEF3H1H87rIp5Rr9NFnRmHPigmEyRGKQNIuzI" />
-    <title lang="he">מוריה וברקו</title>
   </programme>
   <programme start="20261116165900 +0000" stop="20261116175000 +0000" channel="Channel13.il">
     <desc lang="he">תכנית אקטואליה פוליטית יומית בהגשת רביב דרוקר, עם נבחרת חדשות 13, אורחים באולפן וכתבות מיוחדות. שס''י, כ' סמ' שידור חי.</desc>
@@ -2570,106 +2435,6 @@
     <desc lang="he">מגזין בריאות חדש בהנחיית גיל לוין, ד''ר רעות מרדכי, פרופ' איתן פרידמן וד''ר איתי גל שמביאים לצופים את כל מה שכדאי לדעת בנושאי בריאות, רפואה ואורח חיים בריא. כ' עב'/ער ש.ח.</desc>
     <icon src="https://iptv-epg.org/images/QvW55BeCgWkAhBS2sEXjk1GiNIfdGxKnyTKIKLWDUa0KnWds__zsM6xZAAEoE62YfHwDWtJaAcOvGixyxoJk5zy_pvk4m9jHJl0PULM" />
     <title lang="he">סטטוסקופ - פרק 355</title>
-  </programme>
-  <programme start="20261116080600 +0000" stop="20261116082800 +0000" channel="KanEducational.il">
-    <desc lang="he">תכנית ידע קומית העוסקת בגוף האדם. הילה קורח ושני הנסיינים דובדבני וקובץ' בודקים את כל מה שקורה לגוף שלנו כשאנחנו הולכים לים. אורח: ד''ר ארז גרטי, מכון דוידסון, מכון ויצמן למדע. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/019CAS4OBloWkqSfublolyUo7bpw39GKbUkaQ_MwXmK8gmuOn_HSorXWwDFXrh8uoLDXS_12hRR1xD92ot5My37cKzM0y8v7H6FhJco" />
-    <title lang="he">מתחת לעור - 33. יום ים</title>
-  </programme>
-  <programme start="20261116082800 +0000" stop="20261116084500 +0000" channel="KanEducational.il">
-    <desc lang="he">אייל קיציס משמרטף על פיטר, נביל ושרבל מאעיבלין - שלישיית אחים מתאגרפים שלא מפחדים להיכנס לקרב גם מול אנשים שגדולים מהם בהרבה. בסלון הבית שלהם יש עץ אשוח גדול וצבעוני לכבוד חג המולד. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/oP8sXN9bUQpRPkoNThWzB-tk7H5cKqSaUEPPCMpb4HZAM-egKSqcYE4w9yP_gg9rKLpcACqdGvneHGfUvcJzo0ZoSmDcDlo0mGaRhVo" />
-    <title lang="he">השמרטפים - 16. שלישיית חורי, אעבלין</title>
-  </programme>
-  <programme start="20261116084500 +0000" stop="20261116091000 +0000" channel="KanEducational.il">
-    <desc lang="he">נגה מבקשת מבן להיות איתו זוג במשחק חפש את המטמון. אבל מה שמתחיל כמו חלום של בן שמתגשם, ממשיך בריב שמוביל את נגה אל סער, ומכריח את בן לקחת החלטה חשובה. אלון לא מצליח להפסיק לחשוב על נגה ומפסיד בגדול. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/aL5ra-BnaZmdCBSXrncAW65MrcyeILeHP6HfnGp8kuJtYM2hErAvZC9ZHjhS2dIkm-Tf3cv7ynr_hmFiKcd4NoPsmSmDSgNSSZgVjkU" />
-    <title lang="he">תראו אותי - 17. לא בורח יותר</title>
-  </programme>
-  <programme start="20261116091000 +0000" stop="20261116091700 +0000" channel="KanEducational.il">
-    <desc lang="he">איילה מתעצבנת על נופית, שמתמודדת בבחירות למועצת התלמידים. בדרך הביתה, היא שמה לב בפעם הראשונה לעץ הזית שליד בית הספר. דוד אפרים מציע לה לקבל עצה מהעץ העתיק, ולגלות שיש בה כוח להפוך למנהיגה. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/tph_6SW6LOyNgALLZYoFVfjThDNi_uJTA5nET39VBnUpt81x1E0cVDxUhZ-wlyV1pRUlrEKbCcRctuA2A45-gVDxKwjQhLl55NrBA8E" />
-    <title lang="he">חדש! על הדרך הביתה - 5. הזית</title>
-  </programme>
-  <programme start="20261116091700 +0000" stop="20261116094400 +0000" channel="KanEducational.il">
-    <desc lang="he">השכנים מזמינים את סמירה ותאמר להיות אושפיזין בסוכה, אבל בעקבות ריב של חזי ותולי על איך לבנות את הסוכה צצות בשכונה יותר מדי סוכות. נור דורכת על חשופיות ואדם חושב שמשהו נורא קרה להורים שלה.כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/s63dUc3bw0gchhUhMv6-2YaedfvtR4giKzldKpUc4YtJq2DAmedmrvUeXIUWIHRlRA2k2bOYj2OjxNm9Os5y4ja_51hd-6ufDZjOmX8" />
-    <title lang="he">שכונת חיים 2 - ככה זה אצלם</title>
-  </programme>
-  <programme start="20261116094400 +0000" stop="20261116100800 +0000" channel="KanEducational.il">
-    <desc lang="he">האחים וזעתר מתכוננים ליום האהבה. מיקה מתאהבת בבנאדם הכי לא צפוי. איה מלמדת את זעתר להשתמש באימוג'ים בהודעות וואטסאפ. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/EmG_EmgB29MRMI8Ko_-H3FMYg-ih_oZ2ZdO_tiqvD1wheJHLHr7SGIwcO0BvjwYe51_U0un-I_NBpjHZ2dWnJHEiFLbsn-R5r3EqzVE" />
-    <title lang="he">לבד בבית 2 - 12. יום האהבה</title>
-  </programme>
-  <programme start="20261116100800 +0000" stop="20261116103200 +0000" channel="KanEducational.il">
-    <desc lang="he">רצף אירועים מביא את דורין למסקנה שיש קללה על הקבוצה וחייבים לטפל בה מיידית. שלי פורקת את תסכוליה על הסביבה, ומיהו השותף האלמוני של צדיק הידוע בכינויו בצלאל הנוכל? כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/NAwV02tNuUXwb8RNrmurXnb24t4cWMhbAvMHpI2UA14oaUT5kf2sHx2CHQiI0zCvM4LVfnyKHSl0B485oF4BgsEC9cLNuMnINmTP4XE" />
-    <title lang="he">שלי הכובשת - 12. הקללה</title>
-  </programme>
-  <programme start="20261116103200 +0000" stop="20261116105800 +0000" channel="KanEducational.il">
-    <desc lang="he">ירמי ונגה, חברי ילדות שפוטרו עבודתם בפעם המאה, מנסים להתקבל למחנה ''וולקנו'' בתור מדריכים. עמליה המנהלת מצפה לביקורה של כתבת שעושה כתבה על מחנות הקיץ הטובים בישראל, ומנסה לגרום לאגפי המחנה לתפקד. כ' עב. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/qpGzADZrP104SV1f8WKWU2B0pWW5pxMFnudmGKxVC4cEh1b9eREU_IHe-aUI6I_G7vj-39O-mqqCHhbaVQ8Gm4pwTsYBfLeUyjnN2KI" />
-    <title lang="he">בלוגה בלוז - 1. התיקון</title>
-  </programme>
-  <programme start="20261116105800 +0000" stop="20261116112700 +0000" channel="KanEducational.il">
-    <desc lang="he">טוהר ויהודה מגלים פרט גורלי שמוביל אותם למקום בו הוחבאה המנורה בילדותו של אליהו. הלל חרד מתגובתו של אביתר ליחסים שלו ושל נעמי ובלית ברירה מספר לו את האמת. ליבי, אמיתי ויהודית מנסים לחבל במכירת העסק. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/vSyBrgbxBJ7rI_WhxDA9QVHCoxhOvV1WcR8A0xhkQkDCYvLX0mrt1_yh3WWAiSmMgvQsF0aQT7fogX4Mbrg-7VfmZJ3aE-iGmJAHBLg" />
-    <title lang="he">בני מצווה 3 - 12. המרכבה</title>
-  </programme>
-  <programme start="20261116112700 +0000" stop="20261116115000 +0000" channel="KanEducational.il">
-    <desc lang="he">גולדפיש מזהירה שלחבורה יש 48 שעות בלבד לפני שהעיר תתפרק לחלוטין. רון שוקע בדיכאון עמוק בגלל עזיבתה של סתיו, חן מתעמתת איתו בקפיטריה ומאיימת לאמלל את חייו. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/uO-TpKuMQuNkyIE5UpZN3t3kSEs-zFk8xxrizNV3xfMXSpK5km4qbA6bmXLhgOBcR4-32KTenY9tXoDyoBTRlFBcdMZ4GQr7Rkp2wYc" />
-    <title lang="he">הסדרתיים 2 - 17. כל דבר מזכיר לי אותה</title>
-  </programme>
-  <programme start="20261116115000 +0000" stop="20261116121700 +0000" channel="KanEducational.il">
-    <desc lang="he">נגה מבקשת מבן להיות איתו זוג במשחק חפש את המטמון. אבל מה שמתחיל כמו חלום של בן שמתגשם, ממשיך בריב שמוביל את נגה אל סער, ומכריח את בן לקחת החלטה חשובה. אלון לא מצליח להפסיק לחשוב על נגה ומפסיד בגדול. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/aL5ra-BnaZmdCBSXrncAW65MrcyeILeHP6HfnGp8kuJtYM2hErAvZC9ZHjhS2dIkm-Tf3cv7ynr_hmFiKcd4NoPsmSmDSgNSSZgVjkU" />
-    <title lang="he">תראו אותי - 17. לא בורח יותר</title>
-  </programme>
-  <programme start="20261116121700 +0000" stop="20261116124200 +0000" channel="KanEducational.il">
-    <desc lang="he">תחרות סקילרים מגיעה למלון הוטל והשופט הוא פלג זיני. איתן נרשם לתחרות אבל אז מגלה שגם לאורי יש סקילים והוא מתכוון להרשם. אורלי מוצאת ייעוד חדש בחיים, לעזור לתושבי נהריה אבל יש מישהו שמאוד לא מרוצה מזה. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/KgnRKc0lwQr29ioX4y_eUHXZx8igjFkomFKJdUswa54k67CNGG0QCKeu3eiYxaFEVI3-EwqB6RdBmmvW-jK5GYzjmyah87ETIBTCQOg" />
-    <title lang="he">מלון הוטל 3 - 14. איתן הסקילר</title>
-  </programme>
-  <programme start="20261116124200 +0000" stop="20261116130500 +0000" channel="KanEducational.il">
-    <desc lang="he">רצף אירועים מביא את דורין למסקנה שיש קללה על הקבוצה וחייבים לטפל בה מיידית. שלי פורקת את תסכוליה על הסביבה, ומיהו השותף האלמוני של צדיק הידוע בכינויו בצלאל הנוכל? כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/NAwV02tNuUXwb8RNrmurXnb24t4cWMhbAvMHpI2UA14oaUT5kf2sHx2CHQiI0zCvM4LVfnyKHSl0B485oF4BgsEC9cLNuMnINmTP4XE" />
-    <title lang="he">שלי הכובשת - 12. הקללה</title>
-  </programme>
-  <programme start="20261116130500 +0000" stop="20261116133000 +0000" channel="KanEducational.il">
-    <desc lang="he">לאחים נמאס מההצקות הבלתי פוסקות של פלוטניק. הם מתכננים להדיח אותו מראשות ועד הבית, ולהעמיד במקומו יושב ראש חדש ומפתיע. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/EmG_EmgB29MRMI8Ko_-H3FMYg-ih_oZ2ZdO_tiqvD1wheJHLHr7SGIwcO0BvjwYe51_U0un-I_NBpjHZ2dWnJHEiFLbsn-R5r3EqzVE" />
-    <title lang="he">לבד בבית 2 - 13. הקרב על הוועד</title>
-  </programme>
-  <programme start="20261116133000 +0000" stop="20261116135500 +0000" channel="KanEducational.il">
-    <desc lang="he">בבוקר היום האחרון ללימודים, רון וגאיה נדהמים לגלות את איתי כשהוא מודבק לקיר במסדרון. מי עשה את זה? גולדפיש מעניקה למשה את המשקפיים הבין-ממדיים ומאלצת אותו להביט במציאות האמיתית והמבהילה. כ' עב'.</desc>
-    <icon src="https://iptv-epg.org/images/MgR_VT4E31tT0DQsofjJrtypTfdme9c22e3Mwo2ek1a9lIQoavQYU_BhLMHqPUgV6hG82MRkoImw6Tx_KS1xRC2rmsC4i0BTyOtPAe8" />
-    <title lang="he">הסדרתיים 2 - 18. את מי אתה מציל</title>
-  </programme>
-  <programme start="20261116135500 +0000" stop="20261116142300 +0000" channel="KanEducational.il">
-    <desc lang="he">טוהר ויהודה מגלים פרט גורלי שמוביל אותם למקום בו הוחבאה המנורה בילדותו של אליהו. הלל חרד מתגובתו של אביתר ליחסים שלו ושל נעמי ובלית ברירה מספר לו את האמת. ליבי, אמיתי ויהודית מנסים לחבל במכירת העסק. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/vSyBrgbxBJ7rI_WhxDA9QVHCoxhOvV1WcR8A0xhkQkDCYvLX0mrt1_yh3WWAiSmMgvQsF0aQT7fogX4Mbrg-7VfmZJ3aE-iGmJAHBLg" />
-    <title lang="he">בני מצווה 3 - 12. המרכבה</title>
-  </programme>
-  <programme start="20261116142300 +0000" stop="20261116145000 +0000" channel="KanEducational.il">
-    <desc lang="he">השכנים מזמינים את סמירה ותאמר להיות אושפיזין בסוכה, אבל בעקבות ריב של חזי ותולי על איך לבנות את הסוכה צצות בשכונה יותר מדי סוכות. נור דורכת על חשופיות ואדם חושב שמשהו נורא קרה להורים שלה.כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/s63dUc3bw0gchhUhMv6-2YaedfvtR4giKzldKpUc4YtJq2DAmedmrvUeXIUWIHRlRA2k2bOYj2OjxNm9Os5y4ja_51hd-6ufDZjOmX8" />
-    <title lang="he">שכונת חיים 2 - יחד נארח</title>
-  </programme>
-  <programme start="20261116145000 +0000" stop="20261116151800 +0000" channel="KanEducational.il">
-    <desc lang="he">יוני מחליט לדווח על נגה ואוריה, אוריה לוקח על עצמו את האחריות ומשלם את המחיר שמסתמן כסילוקו מהגן. נגה ונעמי משתפות פעולה כדי להחזיר את אוריה לגן. יוני מגלה מידע חדש על זהותו של אביו הביולוגי. כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/6GB-YSfy3rr9UdRtFCy9ejHKC6yaLj4tNqNd7UxTWIAlujuO2sbdf5bzwjDIg6ruw7A6Fv7--_GFvX_uygrPyd1JXdxzySikoABlyZU" />
-    <title lang="he">המתחם ה-25 - 12. על תנאי</title>
-  </programme>
-  <programme start="20261116151800 +0000" stop="20261116154200 +0000" channel="KanEducational.il">
-    <desc lang="he">אל החברה מצטרפת מנהלת משרד בשם חמוטל, שגורמת לסגל להחסיר פעימה. שלי מנסה להתאים את גמא לכללי העבודה החדשים ללא הצלחה.כ' עב'. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/ydCROSXSqCYmDXi9Bi_uaviS7AMGPeu20iNOEz5p7XNIjv5Jt1BrOKlqD6OuL-cOeslD8mURX_bDff9V4x43-yKy7R-tZrjzJHCDzfM" />
-    <title lang="he">מי פה הבוס? - 2. חמוטל</title>
-  </programme>
-  <programme start="20261116154200 +0000" stop="20261116160700 +0000" channel="KanEducational.il">
-    <desc lang="he">תחרות סקילרים מגיעה למלון הוטל והשופט הוא פלג זיני. איתן נרשם לתחרות אבל אז מגלה שגם לאורי יש סקילים והוא מתכוון להרשם. אורלי מוצאת ייעוד חדש בחיים, לעזור לתושבי נהריה אבל יש מישהו שמאוד לא מרוצה מזה. ש.ח.</desc>
-    <icon src="https://iptv-epg.org/images/KgnRKc0lwQr29ioX4y_eUHXZx8igjFkomFKJdUswa54k67CNGG0QCKeu3eiYxaFEVI3-EwqB6RdBmmvW-jK5GYzjmyah87ETIBTCQOg" />
-    <title lang="he">מלון הוטל 3 - 14. איתן הסקילר</title>
   </programme>
   <programme start="20261116160700 +0000" stop="20261116163000 +0000" channel="KanEducational.il">
     <desc lang="he">רצף אירועים מביא את דורין למסקנה שיש קללה על הקבוצה וחייבים לטפל בה מיידית. שלי פורקת את תסכוליה על הסביבה, ומיהו השותף האלמוני של צדיק הידוע בכינויו בצלאל הנוכל? כ' עב'. ש.ח.</desc>
