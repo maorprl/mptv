@@ -20,6 +20,7 @@ CHANNELS = {
     "Kan11.il": ("Kan 11", "Kan11.il"),
     "Keshet12.il": ("Keshet 12", "Keshet12.il"),
     "Channel13.il": ("Channel 13", "Channel13.il"),
+    "KanEducational.il": ("Kan Educational", "KanEducational.il"),
 }
 # EPG input may use either older Hebrew IDs or already normalized IDs.
 GUIDE_IDS = {
@@ -29,6 +30,8 @@ GUIDE_IDS = {
     "Kan11.il": "Kan11.il",
     "Keshet12.il": "Keshet12.il",
     "Channel13.il": "Channel13.il",
+    "ערוץ23חינוכית.il": "KanEducational.il",
+    "KanEducational.il": "KanEducational.il",
 }
 
 def fetch(url: str) -> bytes:
@@ -67,6 +70,12 @@ def playlist() -> None:
                 blocks[key] = [metadata, STREAM_OVERRIDES[key]]
             else:
                 blocks[key] = [metadata, *block[1:]]
+    # Kan Educational uses the supplied direct Kan HLS URL.
+    educational_id = "KanEducational.il"
+    blocks[educational_id] = [
+        '#EXTINF:-1 tvg-id="KanEducational.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png" group-title="Israel",Kan Educational',
+        "https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8",
+    ]
     missing = set(CHANNELS) - set(blocks)
     if missing:
         raise ValueError(f"Missing channels in upstream playlist: {sorted(missing)}")
@@ -74,7 +83,7 @@ def playlist() -> None:
     for key in CHANNELS:
         out.extend(blocks[key])
     (ROOT / "playlist.m3u").write_text("\n".join(out) + "\n", encoding="utf-8")
-    print("Playlist: 3 channels")
+    print(f"Playlist: {len(CHANNELS)} channels")
 
 def guide() -> None:
     data = fetch(EPG_URL)
@@ -95,7 +104,13 @@ def guide() -> None:
             node.set("channel", cid)
             output.append(node)
             counts[cid] += 1
-    if len(output.findall("channel")) != 3 or any(n == 0 for n in counts.values()):
+    # This source sometimes omits an explicit channel header for a programme ID.
+    present = {node.get("id") for node in output.findall("channel")}
+    for cid in CHANNELS:
+        if cid not in present and counts[cid]:
+            ET.SubElement(output, "channel", {"id": cid}).append(ET.Element("display-name"))
+            output.findall("channel")[-1].find("display-name").text = CHANNELS[cid][0]
+    if len({node.get("id") for node in output.findall("channel")}) != len(CHANNELS) or any(n == 0 for n in counts.values()):
         raise ValueError(f"Missing current EPG channels/programmes: {counts}")
     ET.indent(output, space="  ")
     ET.ElementTree(output).write(ROOT / "epg.xml", encoding="utf-8", xml_declaration=True)
